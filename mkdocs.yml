@@ -1,1 +1,8 @@
 site_name: 清华大学飞跃手册
+
+nav:
+  - 前言: index.md
+  - 准备申请: prepare.md
+  - 案例库: cases.md
+  - 招生信息: ad.md
+  - 联系与贡献: contributors.md
