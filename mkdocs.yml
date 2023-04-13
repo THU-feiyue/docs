@@ -1,4 +1,6 @@
 site_name: 清华大学飞跃手册
+repo_url: https://github.com/THU-feiyue/THU-feiyue
+edit_uri: edit/main/docs/
 
 nav:
   - 前言: index.md
@@ -6,3 +8,51 @@ nav:
   - 案例库: cases.md
   - 招生信息: ad.md
   - 联系与贡献: contributors.md
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+    - search
+    - git-revision-date-localized
+    - add-number:
+        strict_mode: False
+        order: 2
+    - git-authors:
+        show_contribution: true
