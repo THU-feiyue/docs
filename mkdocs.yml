@@ -3,11 +3,21 @@ repo_url: https://github.com/THU-feiyue/THU-feiyue
 edit_uri: edit/main/docs/
 
 nav:
-  - 前言: index.md
-  - 准备申请: prepare.md
-  - 案例库: cases.md
-  - 招生信息: ad.md
-  - 联系与贡献: contributors.md
+  - 首页: index.md
+  - 前言:
+    - 为什么出国留学: index/why.md
+    - master or Ph.D.: index/master_phd.md
+    - 国家/地区选择: index/location.md
+  - 准备:
+    - prepare/index.md
+    - 考试: prepare/exam.md
+    - 经历: prepare/exp.md
+  - 案例:
+    - cases/index.md
+    - CS: cases/cs.md
+  - 招生信息:
+    - ad/index.md
+  - 联系与贡献: contribute.md
 
 theme:
   name: material
