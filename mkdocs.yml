@@ -34,14 +34,35 @@ theme:
     - toc.follow
 
 markdown_extensions:
+  # Python Markdown
+  - abbr
   - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  # Python Markdown Extensions
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
   - pymdownx.highlight:
       linenums: true
       linenums_style: pymdownx-inline
-  - pymdownx.superfences
   - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 extra_javascript:
   - javascripts/config.js
@@ -49,10 +70,13 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
-    - search
-    - git-revision-date-localized
-    - add-number:
-        strict_mode: False
-        order: 2
-    - git-authors:
-        show_contribution: true
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - git-revision-date-localized
+  - add-number:
+      strict_mode: False
+      order: 2
+  - git-authors:
+      show_contribution: true
