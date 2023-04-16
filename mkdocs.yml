@@ -3,10 +3,9 @@ repo_url: https://github.com/THU-feiyue/THU-feiyue
 edit_uri: edit/main/docs/
 
 
-
 nav:
   - 首页:
-    - 首页: index.md
+    - index.md
     - 贡献方式: main/contribution.md
     - 友链: main/friendlink.md
     - Q & A: main/qa.md
@@ -17,12 +16,12 @@ nav:
     - 信息收集: preface/info.md
     - 中介 or DIY: preface/diy.md
   - 准备:
-    - 准备工作: prepare/index.md
+    - prepare/index.md
     - 标化考试 & GPA: prepare/exam.md
     - 经历:
       - 科研: prepare/experience/research.md
-      - 实习:  prepare/experience/intern.md
-      - 交换:  prepare/experience/exchange.md
+      - 实习: prepare/experience/intern.md
+      - 交换: prepare/experience/exchange.md
     - 推荐信: prepare/rl.md
     - 选校定位:
       - 项目介绍: prepare/selection/programs.md
