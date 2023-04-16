@@ -1,6 +1,6 @@
 # THU-feiyue
 
-## Contribute 
+## Contribute
 
 ```shell
 pip install pre-commit
