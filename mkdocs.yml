@@ -5,7 +5,7 @@ edit_uri: edit/main/docs/
 
 
 nav:
-  - 首页: 
+  - 首页:
     - 首页: index.md
     - 贡献方式: main/contribution.md
     - 友链: main/friendlink.md
@@ -16,18 +16,18 @@ nav:
     - 国家/地区选择: preface/location.md
     - 信息收集: preface/info.md
     - 中介 or DIY: preface/diy.md
-  - 准备: 
+  - 准备:
     - 准备工作: prepare/index.md
     - 标化考试 & GPA: prepare/exam.md
-    - 经历: 
+    - 经历:
       - 科研: prepare/experience/research.md
       - 实习:  prepare/experience/intern.md
       - 交换:  prepare/experience/exchange.md
     - 推荐信: prepare/rl.md
-    - 选校定位: 
+    - 选校定位:
       - 项目介绍: prepare/selection/programs.md
       - 套瓷: prepare/selection/touch.md
-    - 文书: 
+    - 文书:
       - PS / SOP: prepare/material/sop.md
       - Research Proposal: prepare/material/rp.md
       - CV: prepare/material/cv.md
@@ -35,7 +35,7 @@ nav:
       - Writing Sample: prepare/material/writingsample.md
     - 网申: prepare/onlinesystem.md
     - 面试: prepare/interview.md
-  - 录取及之后: 
+  - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md
     - 等待 Offer: afterad/waiting.md
@@ -44,13 +44,13 @@ nav:
     - 前往: afterad/travel.md
     - 租房: afterad/rent.md
     - 生活: afterad/life.md
-  - 案例: 
+  - 案例:
     - 案例: cases/index.md
-    - 23 Fall: 
+    - 23 Fall:
       - cases/23fall/index.md
-    - 22 Fall: 
+    - 22 Fall:
       - cases/22fall/index.md
-    - 21 Fall: 
+    - 21 Fall:
       - cases/21fall/index.md
   - 招生信息:
     - ad/index.md
