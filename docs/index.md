@@ -1,9 +1,11 @@
 ---
-hide:
-  # - navigation
-  # - toc
+# hide:
+#   - navigation
+#   - toc
 comments: true
 ---
+
+# 清华大学飞跃手册概述
 
 !!! info "进度与更新"
     已经完善了目录结构。
