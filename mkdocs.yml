@@ -56,7 +56,7 @@ nav:
     - ad/index.md
   - 联系与支持: 
     - 功德墙: contact/contributor.md
-    - 支持我们: contact/join.md
+    - 支持我们: contact/support.md
 
 theme:
   name: material
