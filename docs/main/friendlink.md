@@ -1,0 +1,11 @@
+- [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
+
+- [上海大学溯源手册-飞跃版块](https://shuosc.github.io/fly/categories/%E7%95%99%E5%AD%A6/)
+- [南科大飞跃手册](https://sustech-application.com/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c)
+- [上海交大飞跃手册](https://survivesjtu.github.io/SJTU-Application/)
+- [华中科大飞跃手册](https://hust-feiyue.github.io/)
+- [浙大数院飞跃手册](http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf)
+- [电力电子飞跃手册](https://zliao555.github.io/flying_brochure/)
+- [东南大学飞跃手册](https://www.yuque.com/2020seufly/guide)
+- [南京工业大学飞跃手册](https://github.com/yaoshun123/FLY_NJTech)
+- [欧洲留学飞跃手册](https://chaoli.club/index.php/6978/0)
