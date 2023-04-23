@@ -57,4 +57,4 @@ comments: true
 
 ### 邮件
 
-如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. word / pdf）将帖子发送到邮箱：<mailto: qiryse7en@gmail.com>，手册的维护人员会联系您并为网页排版和组织提供帮助。
+如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. word / pdf）将帖子发送到邮箱：<mailto:qiryse7en@gmail.com>，手册的维护人员会联系您并为网页排版和组织提供帮助。
