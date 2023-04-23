@@ -19,7 +19,7 @@ tags:
 - 本科专业：考古学
 - 硕士专业：(if applicable)
 - 申请方向：Stat、Biostat、Data Science （如果是 PhD 申请者有更细化的方向可以一并列出，如 Condensed Matter Experiment, Machine Learning Theory）
-- 申请项目：    
+- 申请项目：
     - master: MS Stat @ Stanford, MA Stat @ UC Berkeley, MSc DS @ ETHZ, MS Biostat @ Umich.
     - doctor: PhD Stat @ Stanford, MS - PhD track Biostatistics @ UC Berkeley.
 - 最终去向：MS Stat @ Stanford
@@ -44,7 +44,7 @@ tags:
 
 ## 申请背景
 
-- GPA: 4.00, Rank: 1/100 
+- GPA: 4.00, Rank: 1/100
 - 语言：IELTS 7.0 (R 7.0 / L 7.0 / S 5.5 / W 8.5)
 - GRE：300 (V 150 + Q 150)
 - 推荐信: 邱宝强推、西芹课程推、UCB 暑研导师强推 （如果你后验地觉得有黑推可以选择性地po出来）
@@ -96,7 +96,7 @@ HINT：申请背景提升、自己有什么做的不够好、面试经验、如�
 
 -------------------
 
-其它内容 hint: e.g. ##FAQ ##致谢 
+其它内容 hint: e.g. ##FAQ ##致谢
 
 （招生广告可以发在专门的 [招生信息](/ad/index.md) 页面）
 
@@ -108,7 +108,7 @@ HINT：申请背景提升、自己有什么做的不够好、面试经验、如�
 
     !!! note
         这种提示框
-    
+
     等等，作者们可以灵活使用这些文档元素来呈现内容
 
 -   严格来说上面的内容除了你的 [metadata](#_1) 我们建议都提供外，其它内容都是可以调整的，大家可以参照本模板/自由发挥。

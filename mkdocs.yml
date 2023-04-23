@@ -57,7 +57,7 @@ nav:
       - cases/21fall/index.md
   - 招生信息:
     - ad/index.md
-  - 联系与支持: 
+  - 联系与支持:
     - 功德墙: contact/contributor.md
     - 支持我们: contact/support.md
 
@@ -139,6 +139,3 @@ plugins:
       show_contribution: true
   - tags:
       tags_file: cases/tags.md
-
-
-

@@ -5,4 +5,3 @@
 ## Statics
 
 ## Materials Science and Engineering
-
