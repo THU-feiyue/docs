@@ -1,7 +1,8 @@
 site_name: 清华大学飞跃手册
 repo_url: https://github.com/THU-feiyue/THU-feiyue
 edit_uri: edit/main/docs/
-
+site_author: THU Feiyue Team
+copyright: 'Copyright &copy; 2023 THU Feiyue Team'
 
 nav:
   - 首页:
@@ -46,6 +47,8 @@ nav:
     - 生活: afterad/life.md
   - 案例:
     - 案例: cases/index.md
+    - 案例模板: cases/example.md
+    - Tag 索引: cases/tags.md
     - 23 Fall:
       - cases/23fall/index.md
     - 22 Fall:
@@ -54,7 +57,7 @@ nav:
       - cases/21fall/index.md
   - 招生信息:
     - ad/index.md
-  - 联系与支持: 
+  - 联系与支持:
     - 功德墙: contact/contributor.md
     - 支持我们: contact/support.md
 
@@ -79,9 +82,13 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.footer
     - navigation.top
     - toc.follow
     - announce.dismiss
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
 
 markdown_extensions:
   # Python Markdown
@@ -130,3 +137,5 @@ plugins:
       order: 2
   - git-authors:
       show_contribution: true
+  - tags:
+      tags_file: cases/tags.md
