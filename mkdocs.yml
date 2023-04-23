@@ -12,13 +12,13 @@ nav:
     - Q & A: main/qa.md
   - 前言:
     - 为什么出国留学: preface/why.md
-    - master or Ph.D.: preface/master_phd.md
+    - master or doctor?: preface/master_phd.md
     - 国家/地区选择: preface/location.md
     - 信息收集: preface/info.md
     - 中介 or DIY: preface/diy.md
   - 准备:
     - prepare/index.md
-    - 标化考试 & GPA: prepare/exam.md
+    - GPA & 标化考试: prepare/exam.md
     - 经历:
       - 科研: prepare/experience/research.md
       - 实习: prepare/experience/intern.md
