@@ -7,7 +7,6 @@ copyright: 'Copyright &copy; 2023 THU Feiyue Team'
 nav:
   - 首页:
     - index.md
-    - 贡献方式: main/contribution.md
     - 友链: main/friendlink.md
     - 名词解释: main/appendix.md
     - Q & A: main/qa.md
@@ -46,6 +45,10 @@ nav:
     - 租房: afterad/rent.md
     - 生活: afterad/life.md
   - 案例:
+  # 请案例贡献者将自己的文档放在对应年份对应的文件夹下，并维护好这里的目录，格式为
+  # - <major - program - pseudonym>: <directory from ./docs>
+  # 例子：
+  # - Stat - MS Stat @ Stanford - Xiqin: cases/23fall/stat-stanford-xiqin.md
     - 案例: cases/index.md
     - 案例模板: cases/example.md
     - Tag 索引: cases/tags.md
