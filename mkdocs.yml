@@ -20,11 +20,13 @@ nav:
     - prepare/index.md
     - GPA & 标化考试: prepare/exam.md
     - 经历:
+      - prepare/experience/index.md
       - 科研: prepare/experience/research.md
       - 实习: prepare/experience/intern.md
       - 交换: prepare/experience/exchange.md
     - 推荐信: prepare/rl.md
     - 选校定位:
+      - prepare/selection/index.md
       - 项目介绍: prepare/selection/programs.md
       - 套瓷: prepare/selection/touch.md
     - 文书:
