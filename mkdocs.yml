@@ -28,8 +28,9 @@ nav:
     - 选校定位:
       - prepare/selection/index.md
       - 项目介绍: prepare/selection/programs.md
-      - 套瓷: prepare/selection/touch.md
+      - 套磁: prepare/selection/touch.md
     - 文书:
+      - prepare/material/index.md
       - PS / SOP: prepare/material/sop.md
       - Research Proposal: prepare/material/rp.md
       - CV: prepare/material/cv.md
