@@ -1,6 +1,7 @@
 site_name: 清华大学飞跃手册
 repo_url: https://github.com/THU-feiyue/THU-feiyue
 edit_uri: edit/main/docs/
+site_url: https://feiyue.online
 site_author: THU Feiyue Team
 copyright: 'Copyright &copy; 2023 THU Feiyue Team'
 
@@ -95,6 +96,9 @@ theme:
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: false
 
 markdown_extensions:
   # Python Markdown
