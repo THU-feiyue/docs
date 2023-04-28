@@ -65,8 +65,8 @@ nav:
   - 招生信息:
     - ad/index.md
   - 联系与支持:
-    - 功德墙: contact/contributor.md
     - 支持我们: contact/support.md
+    - 功德墙: contact/contributor.md
 
 theme:
   name: material
