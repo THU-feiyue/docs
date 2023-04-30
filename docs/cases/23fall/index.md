@@ -2,4 +2,4 @@
 
 ## CS
 
-## Statics
+## Statistics
