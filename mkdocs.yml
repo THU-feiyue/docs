@@ -142,3 +142,4 @@ plugins:
       show_contribution: true
   - tags:
       tags_file: cases/tags.md
+
