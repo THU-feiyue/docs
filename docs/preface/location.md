@@ -38,7 +38,7 @@
 ## 澳洲
 - 澳大利亚：
     - [澳大利亚国立大学 ANU](https://www.anu.edu.au/)
-    - [悉尼大学 USYD](https://www.sydney.edu.au/) 
+    - [悉尼大学 USYD](https://www.sydney.edu.au/)
     - [墨尔本大学 UofMELB](https://www.unimelb.edu.au/)
 ## 亚洲
 - 日本：

@@ -104,7 +104,7 @@ GMAT: 研究生管理科入学考试（Graduate Management Admission Test）是�
 GRE 包含 quant, verbal 和 writing 三个部分，一般申请的时候看的是前两个。
 
 quant 就是简单的高中数学题，奔着满分 170 去即可；verbal 类似于是英语的语文题，做句子理解，里面有很多诘屈聱牙的句式和大量生僻词汇和用法，因此这个部分也是很多同学都头疼的部分。这个部分对词汇量要求非常高，所以如果要准备 GRE 和语言的话推荐先准备verbal部分。
-    
+
 !!! note
 
     越来越多的研究生院将GRE考试成绩作为Optional，尤其是理工科。也常见无 GRE 录取的案例。
