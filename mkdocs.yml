@@ -39,6 +39,10 @@ nav:
       - Writing Sample: prepare/material/writingsample.md
     - 网申: prepare/onlinesystem.md
     - 面试: prepare/interview.md
+    - 其它帮助:
+      - 学信网认证: prepare/help/chsi.md
+      - TOEFL/GRE 家考注意事项: prepare/help/toefl-home.md
+      - 申请信息表格整理: prepare/help/summarytable.md
   - 录取及之后:
     - 录取及之后: afterad/index.md
     - Funding: afterad/funding.md

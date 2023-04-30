@@ -9,6 +9,7 @@ tags:
 comments: true
 ---
 
+可以定义你觉得必要的 tag，优先从 [已有 tag](../tags/) 中选取。
 
 # Stat - MS Stat @ Stanford - Xiqin
 

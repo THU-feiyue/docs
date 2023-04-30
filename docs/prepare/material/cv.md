@@ -1,6 +1,6 @@
 # Curriculum Vitae/Resume 简历
 
-将你的基本情况和履历浓缩在1~2页内，让committee能迅速对你有一个轮廓性的认识。
+将你的基本情况和履历浓缩在 1~2 页内，让 committee 能迅速对你有一个轮廓性的认识。
 
 - [UIUC CV samples](https://grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf)
 

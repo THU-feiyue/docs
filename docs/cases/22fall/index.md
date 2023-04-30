@@ -2,6 +2,4 @@
 
 ## Computer Science
 
-## Statics
-
 ## Materials Science and Engineering
