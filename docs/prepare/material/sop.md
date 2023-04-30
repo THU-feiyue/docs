@@ -9,4 +9,3 @@ SOP 侧重 purpose，有时候 PS/SOP 这两个材料不会区分，这个时候
 - [UCB SOP写作指导](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)
 
 - [UCSD SOP写作指导](https://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html)
-
