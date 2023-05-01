@@ -15,28 +15,26 @@
 
 ### 一亩三分地
 
-[一亩三分地留学申请版](https://www.1point3acres.com/bbs/offer) 是理工科申请信息最多的网站，里面的版块划分和内容索引都比较完善，很适合想要 diy 搜集信息的同学。普遍来说逛的多的是，[选校定位](https://www.1point3acres.com/bbs/forum-79-1.html) ，[项目库](https://offer.1point3acres.com/db/programs/--) ，[研究生申请总版](https://www.1point3acres.com/bbs/forum-27-1.html) 和 [录取汇报](https://www.1point3acres.com/bbs/forum-82-1.html) 版，当然其它一些院系介绍、 offer 比较版也是很实用的，如果想了解学校 prestige 或者是等 offer 的时候了解进展可以[搜搜自己感兴趣的学校](https://www.1point3acres.com/bbs/tag.html?category=2)，需要注意的是一亩三分地的网页版搜索功能是要氪金的，但是移动端 app 版不用，所以你下载 app 并注册就能使用检索功能了。得到新手任务基础积分后应该可以查看大部分需要积分才能看到的内容，所以建议最好做一下新手任务，可以在网上查到答案。各校 offer 榜也需要氪金，建议可以移步 [寄托天下院校库](https://schools.gter.net/) 的对应内容。
+[一亩三分地留学申请版](https://www.1point3acres.com/bbs/offer) 是理工科申请信息最多的网站，里面的版块划分和内容索引都比较完善，很适合想要 diy 搜集信息的同学。普遍来说逛的多的是 [选校定位](https://www.1point3acres.com/bbs/forum-79-1.html)，[项目库](https://offer.1point3acres.com/db/programs/--)，[研究生申请总版](https://www.1point3acres.com/bbs/forum-27-1.html) 和 [录取汇报](https://www.1point3acres.com/bbs/forum-82-1.html) 版，当然其它一些院系介绍、 offer 比较版也是很实用的，如果想了解学校 prestige 或者是等 offer 的时候了解进展可以 [搜搜自己感兴趣的学校](https://www.1point3acres.com/bbs/tag.html?category=2)，需要注意的是一亩三分地的网页版搜索功能是要氪金的，但是移动端 app 版不用，所以你下载 app 并注册就能使用检索功能了。得到新手任务基础积分后应该可以查看大部分需要积分才能看到的内容，所以建议最好做一下新手任务，可以在网上查到答案。按学校分类的 offer 榜也需要氪金，建议可以移步 [寄托天下院校库](https://schools.gter.net/) 的对应内容。
 
-一些 tips :
-
-- 不要只看对应的版块，比如在录取汇报版和 offer 比较版有比选校定位版更多的各个学校 / 项目的优劣和特点分析，所以可以都翻一翻。
-- 快速寻找高含金量帖子的方法：点评论数多的，讨论数≥10
-左右。
-- 善用院校搜索，比如找到某个项目对应的页面，然后拉到去年 / 前年这个项目发 offer 的时候，会有许多相关的帖子，点进去看看一般会有不错的内容。
+!!! tip
+    - 不必只看对应的某一版块，比如事实上在录取汇报版和 offer 比较版有比选校定位版更多的各个学校 / 项目的优劣和特点分析，所以可以都翻一翻。
+    - 快速寻找高含金量帖子的方法：点评论数多的，比如讨论数 $\geq 10$ 的一般都会有比较实际的内容。
+    - 善用院校搜索，比如找到某个项目对应的页面，然后拉到去年 / 前年这个项目发 offer 的时候，会有许多相关的帖子，点进去看看一般会有不错的内容。
 
 ### 寄托天下
 
-[寄托天下](https://bbs.gter.net/) 也是一个各种学科方向帖子都很多的网站，用户没有一亩三分地多，但是没有收费内容，注册后就能看到。你可以在网站页眉选择[论坛](https://bbs.gter.net/)，[offer榜](https://offer.gter.net/)，[院校库](https://schools.gter.net/) 之类的。寄托天下的结构和内容与一亩三分地基本一致。总而言之，一亩三分地的用户更多，寄托天下不用氪金，综合使用就好。
+[寄托天下](https://bbs.gter.net/) 也是一个各种学科方向帖子都很多的网站，用户没有一亩三分地多，但是没有收费内容，注册后就能看到。你可以在网站页眉选择 [论坛](https://bbs.gter.net/)，[offer榜](https://offer.gter.net/)，[院校库](https://schools.gter.net/) 之类的。寄托天下的结构和内容与一亩三分地基本一致。总而言之，一亩三分地的用户更多，寄托天下不用氪金，综合使用就好。
 
 ### 知乎
 
-请辩证看待知乎。知乎和一亩三分地不同之处在于：一亩三分地的内容基本以交流和提问为主的，知乎上基本以展示自己的情况为主的。因此你可以在上面看到中文互联网上最 top 的一批申请结果（而且会有一些人在凡尔赛 / 卖弱，搞得有点乌烟瘴气）， highly biased，请你不要焦虑，不是所有人都去 HYPSM；但一个好处是上面有很多陆本顶校的回答，可以改善一亩三分地上难以采集到清北同学样本的问题。
+请辩证看待知乎。知乎和一亩三分地不同之处在于：一亩三分地的内容基本以交流和提问为主的，知乎上基本以展示自己的情况为主的。因此你可以在上面看到中文互联网上最 top 的一批申请结果（而且会有一些人在凡尔赛 / 卖弱，搞得有点乌烟瘴气）， highly biased，请你不要焦虑，不是所有人都去 HYPSM；但一个好处是上面有很多陆本顶校的回答，可以改善一亩三分地上难以采集到清北科 tier 同学样本的问题。
 
 知乎申请相关的内容主要是对应年份的申请记录，如 [24 fall](https://www.zhihu.com/question/443613502/answer/2818895221) , [23 fall](https://www.zhihu.com/question/360515552) , [22 fall](https://www.zhihu.com/question/379814619) , [21 fall](https://www.zhihu.com/question/357928233/answer/1668324597) , [20 fall](https://www.zhihu.com/question/318624725/answer/1265464156)，再早的参考价值就比较有限了。其它还有一些懂哥的申请总结或就读体验。知乎上留学中介的水帖过多，检索起来十分痛苦，建议谨慎采取检索策略。
 
 ### The Grad Cafe
 
-[The Grad Cafe](https://www.thegradcafe.com/) 是国外一个的著名的 offer 结果汇报网站，一般适合用来查发 offer / 面试的时间（尤其是 Ph.D.项目）；它的[论坛](https://forum.thegradcafe.com/)里也有很多实用讨论，值得一逛。
+[The Grad Cafe](https://www.thegradcafe.com/) 是国外一个的著名的 offer 结果汇报网站，一般适合用来查发 offer / 面试的时间（尤其是 Ph.D.项目）；它的 [论坛](https://forum.thegradcafe.com/) 里也有很多实用讨论，值得一逛。
 
 
 ### ChaseDream
