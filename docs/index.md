@@ -40,7 +40,7 @@ comments: true
 
 !!! note "站内导航"
     -   （PC端）可以通过点击页面页眉位置的横向导航条前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面右侧的目录栏快速定位到页面指定位置。
-    -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单前往不同的章节。章节内部有若干主题的帖子，选择你感兴趣的浏览即可，可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。
+    -   （移动端）可以通过页面左上角的导航栏按钮 :fontawesome-solid-bars: 再点击一次 :material-arrow-left: 以回到主菜单，前往不同的章节。可以通过页面左上角导航栏按钮 :fontawesome-solid-bars: + 页面标题右侧的目录按钮 :material-table-of-contents: 浏览目录快速定位到页面指定位置。
 
 如果需要快速检索一些词条内容，可以使用页面右上角的搜索功能。英文搜索可以丝滑进行；中文搜索请以两个字组词为单位断词，例如要搜索 `北京大学` 应该键入 `北京` `大学`。可以搜索 [案例 tag](cases/tags) 来快速寻找特定特色的案例帖。
 
