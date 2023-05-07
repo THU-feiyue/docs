@@ -8,6 +8,8 @@ SOP 侧重 purpose，有时候 PS / SOP 这两个材料不会区分，这个时�
 
 就一些身边统计学的观察而言，陆本同学经常不是很擅长展示自己，大家可以多广泛地想想有哪些可以写的，慢慢组织出基本架构后找 ChatGPT / 文书中介润色文字，找推荐人 / 学长学姐提提内容建议等，让你的 SOP 内容更丰富和精炼。
 
+参考资料：
+
 - [UCB SOP写作指导](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)
 
 - [UCSD SOP写作指导](https://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html)
