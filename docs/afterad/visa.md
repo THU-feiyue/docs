@@ -51,7 +51,7 @@ DS-160填写网站：<https://ceac.state.gov/genniv/>
     - 导师的个人简介、简历或打印网页（针对所在美国教育机构已为其指定导师的研究生）。
 
 ### 面签流程：
-（排队约3～4小时）
+**（排队约3～4小时）**
 
 1. 检查护照与文件
 
@@ -70,4 +70,4 @@ DS-160填写网站：<https://ceac.state.gov/genniv/>
 
 ### 面签结果
  - approved（发蓝表），等待签证下发
- - check（发绿表），要求补充材料（个人CV, Study plan，导师CV等）
+ - check（发绿表），可能要求补充材料（个人CV, Study plan，导师CV等）

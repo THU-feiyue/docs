@@ -14,7 +14,7 @@ tags:
 - 本科专业：材料科学与工程（数理方向）
 - 申请方向：Materials Science and Engineering, Chemical Engineering, Nanoengineering, Bioelectronic, Flexiable Electronics
 - 申请项目：
-    - master: MAS @ MIT (NCB Lab)
+    - master: MAS @ MIT Media Lab(NCB Lab)
     - MS/PhD: PhD MatSE @ Northwestern, PhD MatSE @ UMich, PhD MatSE @ UIUC, PhD MatSE @ Penn State , PhD Nanoengineering @ UCSD, Mechanical Engineering @ USC, PhD CBE @ NCSU.
 - 最终去向：MS MatSE @ UIUC
 - 联系方式：qiry19@mails.tsinghua.edu.cn
@@ -68,10 +68,9 @@ tags:
 
 在交了申请费之后就是等待。
 
-MIT的MAS是一个比较独特的项目,提交了申请后PI给了assignment来海选，经过两次assignments之后，由于还没有interview就被waitinglist了，最后
-只是到了shortlist，然后无果了。
+MIT的MAS是一个比较独特的项目,提交了申请后PI给了assignment来海选，经过两次assignments之后，由于还没有interview就被waitinglist了，最后只是到了shortlist，然后无果了。
 
-NCSU和PSU的interview都是faculty看T大的面子和关系给的。PSU是需要和Professor说定才会给offer，但是当时没法确定，后面就不了了之了。其他的学校基本都是放到wl最后在4月中旬之后才给了rej。一方面确实是自身条件不够好，另一方面也是行情所致。
+NCSU和PSU的interview都是faculty看你清的面子和关系给的。PSU是需要和Professor说定才会给offer，但是当时没法确定，后面就不了了之了。其他的学校基本都是放到wl最后在4月中旬之后才给了rej。一方面确实是自身条件不够好，另一方面也是行情所致。
 
 最后还是决定先去玉米地之后再做打算。从想直博，考虑过转码、选调，再到决定申PhD做学术，再到接了ms边走边看。我的想法也在随着自己的成长和环境的变化在改变着。甚至在申请的这几个月的时间里，想法也在不断变化:）
 
