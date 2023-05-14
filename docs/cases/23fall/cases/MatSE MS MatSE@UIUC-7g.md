@@ -15,7 +15,7 @@ tags:
 - 申请方向：Materials Science and Engineering, Chemical Engineering, Nanoengineering, Bioelectronic, Flexiable Electronics
 - 申请项目：
     - master: MAS @ MIT Media Lab(NCB Lab)
-    - MS/PhD: PhD MatSE @ Northwestern, PhD MatSE @ UMich, PhD MatSE @ UIUC, PhD MatSE @ Penn State , PhD Nanoengineering @ UCSD, Mechanical Engineering @ USC, PhD CBE @ NCSU.
+    - MS/PhD: PhD MatSE @ Northwestern, PhD MatSE @ UMich, PhD MatSE @ UIUC, PhD MatSE @ Penn State , PhD Nanoengineering @ UCSD, PhD Mechanical Engineering @ USC, PhD CBE @ NCSU.
 - 最终去向：MS MatSE @ UIUC
 - 联系方式：qiry19@mails.tsinghua.edu.cn
 
@@ -52,13 +52,13 @@ tags:
 
 期间也报名了SRT项目，参加了一些院系的比赛，增加更多对专业的了解。但在尝试科研的过程中，随着对研究方向和现状的了解，就逐渐萌生了想要出去深造的想法。
 
-确定是在的大三上学期，“十一”假期期间与父母表明了留美深造的决定。所以我真正为出国做准备只有大三和大四上三个学期。甚至大二还做过转码的打算，不过随后来放弃了。
+确定是在的大三上学期，“十一”假期期间与父母表明了留美深造的决定。所以我真正为出国做准备只有大三和大四上三个学期。甚至大二还做过转码的打算，不过随后放弃了。
 
-因为材料科学这个专业的口径足够宽，宽到大学四年根本不能够对每个方向都有了解。我自认为已经很努力在了解整个学科的发展方向和研究方法，但是直到大三下学期暑假我才对未来的研究意愿有了比较清晰的想法。~~许多人读完研究生也还没有想法呢~~
+因为材料科学这个专业的口径足够宽，宽到大学四年时间根本不够对每个方向都有了解。我自认为已经很努力在了解整个学科的发展方向和研究方法，但是直到大三下学期暑假我才对未来的研究意愿有了比较清晰的想法。~~许多人读完研究生也还没有想法呢~~
 
 疫情反反复复，前几个学期都没有出境的机会，大三下投出去的暑研套磁也并没有收到积极的回应，最后报名了国际处的北卡州立大学线上暑研。整个体验其实还可以，只是实验科学线上就已经没有什么意思了。另一方面，NCSU的GEARS项目是一个科研入门，可能更适合大二的同学参加去体验。再加上当时对方课题组外出参会和休假，导致对我来说性价比很低。
 
-不过，虽然最后没有从暑研中获得强推，但是期间的工作坊和与faculty与PhD student的交流让我获得了很多关于美国招生的细节和信息，~~（至少为申请保底了）~~
+不过，虽然最后没有从暑研中获得强推，但是期间的工作坊和与faculty与PhD student的交流让我获得了很多关于美国招生的细节和信息~~（至少为申请保底了）~~
 
 因为我已经对细分方向有比较清晰的认识，所以选校基本是按照学术关系——大牛-大牛学生择校的。另一个考虑的重要因素是校园安全性，犯罪率较高的那几个城市的学校就直接排除了。
 
