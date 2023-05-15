@@ -78,7 +78,7 @@ DS-160填写网站：<https://ceac.state.gov/genniv/>
 
 ### 面签结果
  - approved（北京使馆发蓝表），等待签证下发
- - check（北京发绿表），可能要求补充材料（个人CV, Study plan，Offer letter， 导师CV等），合并成一个`.pdf`文件在 **工作日** 发送至使馆邮箱，**邮件标题：姓，名-护照号码-DS-160确认码**，*请勿使用清华邮箱发送，可用gmail或qq邮箱*。发送成功后会收到自动回复，否则请换邮箱重试。
+ - check（北京发绿表），可能要求补充材料（个人CV, Study plan，Offer letter， 导师CV等），合并成一个`.pdf`文件在 **工作日** 发送至使馆邮箱，**邮件标题：姓，名-护照号码-DS-160确认码**。 *请勿使用清华邮箱发送，可用gmail或qq邮箱*。 发送成功后会收到自动回复，否则请换邮箱重试。
     - check时间预计2~8周，[面签结果统计网站](https://checkee.info)
     - 签证状态查询网站：[Visa Status Check](https://ceac.state.gov/CEACStatTracker/Status.aspx?App=NIV)
 
@@ -137,5 +137,5 @@ DS-160填写网站：<https://ceac.state.gov/genniv/>
     
 ### 取回护照
 
-签证通过后，如果到你选择的中信银行地址取回护照，需要现场**现金**缴费约77元。到中信银行总行可免费取回。邮寄需要线下缴费。
+签证通过后，如果到你选择的中信银行地址取回护照，需要现场 **现金** 缴费约77元。到中信银行总行可免费取回。邮寄需要线下缴费。
 
