@@ -55,7 +55,7 @@ nav:
     - 生活: afterad/life.md
   - 案例:
   # 请案例贡献者将自己的文档放在对应年份对应的文件夹下，并维护好这里的目录，格式为
-  # - <major - program - pseudonym>: <directory from ./docs>
+  # - <program>: <directory from ./docs>
   # 例子：
   # - Stat - MS Stat @ Stanford - Xiqin: cases/23fall/stat-stanford-xiqin.md
     - 案例: cases/index.md
@@ -63,6 +63,9 @@ nav:
     - Tag 索引: cases/tags.md
     - 23 Fall:
       - cases/23fall/index.md
+      - AI + HCI - MSCS @ Stanford - Sophia: cases/23fall/cases/AI+HCI MSCS @Stanford - Sophia.md
+      - MatSE - MS MatSE @ UIUC - 7g: cases/23fall/cases/MatSE MS MatSE@UIUC-7g.md
+      - Stat - PhD @ NWU - v1ncent19: cases/23fall/cases/Stat PhD @ Northwestern - v1ncent19.md
     - 22 Fall:
       - cases/22fall/index.md
     - 21 Fall:

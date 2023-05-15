@@ -11,7 +11,7 @@ tags:
 
 # AI + HCI - MSCS @ Stanford - Sophia
 
-[知乎原文链接](https://www.zhihu.com/question/360515552/answer/2871300619)
+本帖直接搬运自知乎，[知乎原文链接](https://www.zhihu.com/question/360515552/answer/2871300619)
 
 ## 我的背景
 

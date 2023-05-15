@@ -3,7 +3,7 @@ tags:
   - DIY
   - Master
   - Doctor
-  - MatSE
+  - MaterialSE
   - UIUC
 ---
 

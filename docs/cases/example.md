@@ -3,7 +3,7 @@ tags:
   - Master
   - Doctor
   - 暑研
-  - Stat
+  - Statistics
   - DS
   - Stanford
 comments: true
@@ -29,10 +29,14 @@ comments: true
 - 申请项目：
     - master: MS Stat @ Stanford, MA Stat @ UC Berkeley, MSc DS @ ETHZ, MS Biostat @ Umich.
     - doctor: PhD Stat @ Stanford, MS - PhD track Biostatistics @ UC Berkeley.
+    
+    > 可以采用其它你觉得合理的分类方式
+
+    > 还可以采用如 MS Stat @ Stanford, UWash, Umich, UIUC 这样的格式来简化
+
 - 最终去向：MS Stat @ Stanford
 - 联系方式：(email/vx/homepage, etc)
 
-> 申请项目一栏可以采用如 MS Stat @ Stanford, UWash, Umich, UIUC 这样的格式来简化
 
 ## 申请和录取结果
 
