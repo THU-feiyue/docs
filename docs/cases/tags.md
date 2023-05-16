@@ -12,7 +12,7 @@
 #### 按项目类型：
 <span class="md-tag">Doctor</span><span class="md-tag">Master</span>
 
-#### 按经历：
+#### 按经历背景：
 <span class="md-tag">DIY</span><span class="md-tag">暑研</span><span class="md-tag">数理基科</span><span class="md-tag">Yao Class</span>
 
 #### 按院校：

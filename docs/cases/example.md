@@ -40,16 +40,16 @@ comments: true
 
 ## 申请和录取结果
 
-（可以按照你喜欢的方式排序，e.g.对项目的意向 tier / offer 在前 rej 在后 / 按专业分类 / 按出结果的时间, etc）（如果你不想提供也可以不加细节 timeline）
+（可以按照你喜欢的方式排序，e.g.对项目的意向 tier / offer 在前 rej 在后 / 按专业分类 / 按出结果的时间, etc）（如果你不想提供也可以不加细节 timeline，不过还请至少提供 ad/offer/rej）
 
 | 学校 | 项目 | 结果 |
 | ---- | ---- | ---- |
-| Stanford | MS Stat | 02/30 ad |
-| Stanford | PhD Stat | 01/28 interview, 02/01 rej |
-| UC Berkeley | MA Stat |02/31 ad |
-| UC Berkeley | MS - PhD Biostat |02/02 offer |
-| ETHZ | MSc DS | 02/32 rej |
-| Umich | MS Biostat | 03/01 ad |
+| Stanford | MS Stat | :material-check:02/30 ad |
+| Stanford | PhD Stat | :material-close:01/28 interview, 02/01 rej |
+| UC Berkeley | MA Stat |:material-check:02/31 ad |
+| UC Berkeley | MS - PhD Biostat |:material-check:02/02 offer |
+| ETHZ | MSc DS | :material-close:02/32 rej |
+| Umich | MS Biostat | :material-check:03/01 ad |
 
 > 如果 ad/offer 带奖的信息也可以提供
 
