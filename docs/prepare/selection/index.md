@@ -26,10 +26,10 @@
 
 学校的 title 是否好需要结合你的未来规划考虑：如果打算回国那需要考虑在国内的 title 以及各类大学排名，如果打算留外那直接考虑在当地的 reputation 即可。具体来说学校 title 影响着求职时的背景、校友网络、~~你爸妈出去吹牛是否有面~~ 等问题。不过通常来说学校 title 是最后几个需要被考虑的因素（例如虽然藤校[Ivy League](https://en.wikipedia.org/wiki/Ivy_League)其实是个体育联盟，但国内就认这个，或者是一些偏科学校的排名会很低），你自己水平够硬才是比较重要的。
 
-- QS排名(https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
-- U.S. News排名(https://www.usnews.com/education/best-global-universities/rankings)
-- Times泰晤士排名(https://www.timeshighereducation.com/cn/world-university-rankings/2023/world-ranking#!/length/25/sort_by/rank/sort_order/asc/cols/stats)
-- 上海软科ARWU排名(https://www.shanghairanking.cn/rankings/arwu/2022)
+- [QS排名](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
+- [U.S. News排名](https://www.usnews.com/education/best-global-universities/rankings)
+- [Times泰晤士排名](https://www.timeshighereducation.com/cn/world-university-rankings/2023/world-ranking#!/length/25/sort_by/rank/sort_order/asc/cols/stats)
+- [上海软科ARWU排名](https://www.shanghairanking.cn/rankings/arwu/2022)
 
 ## 项目导向
 
@@ -48,7 +48,7 @@
 不同地区的项目开销是不一样的，具体来说开销包括学费和生活费。学费随国家地区、公私校变化，生活费则主要受学校区位（当然还有个人生活方式）影响。下面是一些典型地区的介绍（可能包含印象流）：
 
 -   美国：大城市 + 私立校 = 贵，以 NYC 的 Columbia 为例，经常可以按照每年 RMB 80W 预计总花费（学费 50 + 生活费 30+ 上不封顶）；公立校的学费相比会便宜一些，比如 UCB 可能只有 30W 学费，但加州生活费还是很贵；在村里的学校生活费会很便宜，比如玉米地可能只需要 20W 就能过的很滋润了。
--   英国：跟美国情况类似。
+-   英国：跟美国情况类似，但好在学制比较短，所以一般开销尚可
 -   新加坡 & 香港：这两个比较像，学费较便宜（~20W），生活成本常比国内高，但比欧美低。
 -   欧陆：学费经常很低，至多跟清华差不多的水平；房租适中，但是其它日常生活开销比较贵。
 
