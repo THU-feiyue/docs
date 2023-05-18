@@ -13,7 +13,7 @@
 - 如果计划进行暑研，那么应该这个时候（不晚于）参与科研训练，积累 connection 了。
 - 如果要考 GRE sub 的话应该留意时间，有些 sub 一年只有一两次。
 
-#### 大三下 Jan - 23 April
+#### 大三下 Jan - April
 - 联系暑研、申请暑校/[交换项目](../../prepare/experience/exchange/) 等。
 
 #### 大三下 spring&summer
@@ -29,10 +29,10 @@
 ####  大四上 Dec
 - 部分项目 ddl 较早，注意 [提交系统](../../prepare/onlinesystem/)。
 
-#### 大四下 Jan - 24 Mar
+#### 大四下 Jan - Mar
 - [面试](../../prepare/interview/)
 
-#### 大四下 April - 24 May
+#### 大四下 April - May
 - [确定去向](../../afterad/compare/)
 - [办签证](../../afterad/visa/)，确定 [出行计划](../../afterad/travel/) 和 [租房](../../afterad/rent/) 等。
 

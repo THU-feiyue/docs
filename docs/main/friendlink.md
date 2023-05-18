@@ -1,5 +1,5 @@
 - [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
-- [中科大飞跃手册](https://www.ustcflyer.com/welcome) （需要登陆）
+- [中科大飞跃手册](https://www.ustcflyer.com/welcome) （需要登陆）, [2015版](http://www.ustc.global/wp-content/uploads/2016/01/USTC-Fly-Guide-2015.pdf)
 - [上海大学溯源手册-飞跃版块](https://shuosc.github.io/fly/categories/%E7%95%99%E5%AD%A6/)
 - [南科大飞跃手册](https://sustech-application.com/#/), [2019版](https://sustech-application.github.io/2019-Fall/#/?id=%e5%8d%97%e6%96%b9%e7%a7%91%e6%8a%80%e5%a4%a7%e5%ad%a6%e9%a3%9e%e8%b7%83%e6%89%8b%e5%86%8c-2019-fall)
 - [上海交大飞跃手册](https://survivesjtu.github.io/SJTU-Application/)

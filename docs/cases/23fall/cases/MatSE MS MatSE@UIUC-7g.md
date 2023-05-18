@@ -27,10 +27,10 @@ tags:
 | MIT | MAS | 02/24 wl, 05/05 rej |
 | UMich | PhD MatSE | 04/25 rej |
 | UIUC | MS MatSE | 03/08 03/24 ad |
-| PSU | PhD MatSE | 02/02 interview withdraw | 
+| PSU | PhD MatSE | 02/02 interview withdraw |
 | NCSU | PhD CBE | 01/26 interview offer |
 | USC | PhD ME | 03/10 rej |
-| UCSD | PhD NE | withdraw | 
+| UCSD | PhD NE | withdraw |
 
 ## 申请背景
 
@@ -43,7 +43,7 @@ tags:
 
 - 大学四年疫情三年家里蹲一学期
 - 大二准备直博 大三放弃保研
-- 0pub无connection纯DIY 
+- 0pub无connection纯DIY
 - 方向太交叉不好找项目
 - 线下托福被取消12月阳
 - 最后的数理材
