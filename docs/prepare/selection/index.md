@@ -26,10 +26,10 @@
 
 学校的 title 是否好需要结合你的未来规划考虑：如果打算回国那需要考虑在国内的 title 以及各类大学排名，如果打算留外那直接考虑在当地的 reputation 即可。具体来说学校 title 影响着求职时的背景、校友网络、~~你爸妈出去吹牛是否有面~~ 等问题。不过通常来说学校 title 是最后几个需要被考虑的因素（例如虽然藤校[Ivy League](https://en.wikipedia.org/wiki/Ivy_League)其实是个体育联盟，但国内就认这个，或者是一些偏科学校的排名会很低），你自己水平够硬才是比较重要的。
 
-- QS排名(https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
-- U.S. News排名(https://www.usnews.com/education/best-global-universities/rankings)
-- Times泰晤士排名(https://www.timeshighereducation.com/cn/world-university-rankings/2023/world-ranking#!/length/25/sort_by/rank/sort_order/asc/cols/stats)
-- 上海软科ARWU排名(https://www.shanghairanking.cn/rankings/arwu/2022)
+- [QS排名](https://www.topuniversities.com/university-rankings/world-university-rankings/2022)
+- [U.S. News排名](https://www.usnews.com/education/best-global-universities/rankings)
+- [Times泰晤士排名](https://www.timeshighereducation.com/cn/world-university-rankings/2023/world-ranking#!/length/25/sort_by/rank/sort_order/asc/cols/stats)
+- [上海软科ARWU排名](https://www.shanghairanking.cn/rankings/arwu/2022)
 
 ## 项目导向
 
