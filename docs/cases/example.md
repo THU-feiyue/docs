@@ -30,7 +30,7 @@ comments: true
 - 申请项目：
     - master: MS Stat @ Stanford, MA Stat @ UC Berkeley, MSc DS @ ETHZ, MS Biostat @ Umich.
     - doctor: PhD Stat @ Stanford, MS - PhD track Biostatistics @ UC Berkeley.
-    
+
     > 可以采用其它你觉得合理的分类方式
 
     > 还可以采用如 MS Stat @ Stanford, UWash, Umich, UIUC 这样的格式来简化
