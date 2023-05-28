@@ -1,6 +1,6 @@
 # 国家/地区选择
 
-（以下是一些根据过往申请记录摘取的部分学校地址）
+以下列出国家和地区的一些学校以供参考：
 
 ## 北美
 - 美国：[Best Graduate Schools - U.S. News](https://www.usnews.com/best-graduate-schools)
