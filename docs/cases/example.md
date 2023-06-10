@@ -18,6 +18,8 @@ comments: true
 !!! note
 
     目前本模板内容和呈现形式还在优化中，如果有任何建议可以在本页面末尾的评论区留下你的评论。
+    
+    本帖子源 `.md` 文件的路径为 `./docs/cases/example.md`，见 [Github 项目](https://github.com/THU-feiyue/THU-feiyue/blob/main/docs/cases/example.md)。
 
 > 本模板内容为想要通过类似途径投稿的同学提供一些参考，其中很多内容都是optional填写的，有些信息如果你介意提供可以空置，或是你有想额外加入的章节/改变章节标题/调整章节排布也可以自由进行。
 
