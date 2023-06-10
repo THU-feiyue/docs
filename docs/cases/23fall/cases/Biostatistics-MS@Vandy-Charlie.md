@@ -91,6 +91,3 @@ tags:
 ## 结语
 
 Once you find out what you love, just go for it.
-
-------
-
