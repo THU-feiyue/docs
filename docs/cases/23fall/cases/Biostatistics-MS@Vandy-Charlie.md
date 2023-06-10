@@ -19,7 +19,7 @@ tags:
     - PhD: Stat @ NCSU, Biostat @ USC, Biostat @ Pitt, Biostat @ Colorado at Denver Anschutz, Biostat @ UTH.
 - 最终去向：MS Biostat @ Vandy
 - 联系方式：<mailto:lkx0220@gmail.com>
-- 申请参考：<https://www.zhihu.com/question/360515552/answer/2852974194>
+- 申请参考：[知乎回答](https://www.zhihu.com/question/360515552/answer/2852974194)
 
 ## 申请和录取结果
 

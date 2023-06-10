@@ -7,7 +7,7 @@ tags:
   - UIUC
 ---
 
-# MatSE - MS MatSE @ UIUC - 7g
+# MatSE - MS @ UIUC - 7g
 
 ## 基本信息
 
