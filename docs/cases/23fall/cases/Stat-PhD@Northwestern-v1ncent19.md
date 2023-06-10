@@ -1,6 +1,7 @@
 ---
 tags:
   - DIY
+  - 跨专业
   - Master
   - Doctor
   - 数理基科

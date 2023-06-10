@@ -1,6 +1,7 @@
 ---
 tags:
   - Master
+  - 跨专业
   - Anthropology
   - 数理基科
   - SOAS
