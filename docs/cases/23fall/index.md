@@ -13,5 +13,5 @@
 - [MatSE - MS @ UIUC - 7g](./cases/MatSE-MS%40UIUC-7g.md)
 
 ## Statistics/Biostatics
-- [Stat - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD%40Northwestern-v1ncent19.md)
+- [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD%40Northwestern-v1ncent19.md)
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)

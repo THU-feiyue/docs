@@ -11,7 +11,7 @@ tags:
   - Northwestern
 ---
 
-# Stat - PhD @ Northwestern - V1ncent19
+# Stats - PhD @ Northwestern - V1ncent19
 
 ## 基本信息
 
