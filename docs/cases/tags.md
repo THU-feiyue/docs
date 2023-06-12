@@ -13,7 +13,7 @@
 <span class="md-tag">Doctor</span><span class="md-tag">Master</span>
 
 #### 按经历背景：
-<span class="md-tag">DIY</span><span class="md-tag">跨专业</span><span class="md-tag">暑研</span><span class="md-tag">数理基科</span><span class="md-tag">Yao Class</span><span class="md-tag">英专</span>
+<span class="md-tag">DIY</span><span class="md-tag">跨专业</span><span class="md-tag">暑研</span><span class="md-tag">数理基科</span><span class="md-tag">Yao Class</span><span class="md-tag">外文</span>
 
 #### 按院校：
 <span class="md-tag">CMU</span><span class="md-tag">Stanford</span><span class="md-tag">Northwestern</span><span class="md-tag">Vandy</span><span class="md-tag">SOAS</span><span class="md-tag">UIUC</span>

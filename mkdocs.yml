@@ -8,6 +8,7 @@ copyright: 'Copyright &copy; 2023 THU Feiyue Team'
 nav:
   - 首页:
     - index.md
+    - 关于: main/about.md
     - 友链: main/friendlink.md
     - 名词解释: main/appendix.md
     - Q & A: main/qa.md
@@ -73,8 +74,8 @@ nav:
       - cases/22fall/index.md
     - 21 Fall:
       - cases/21fall/index.md
-  - 招生信息:
-    - ad/index.md
+  # - 招生信息:
+  #   - ad/index.md
   - 联系与支持:
     - contact/support.md
     - 功德墙: contact/contributor.md
