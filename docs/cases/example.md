@@ -18,7 +18,7 @@ comments: true
 !!! note
 
     目前本模板内容和呈现形式还在优化中，如果有任何建议可以在本页面末尾的评论区留下你的评论。
-    
+
     本帖子源 `.md` 文件的路径为 `./docs/cases/example.md`，见 [Github 项目](https://github.com/THU-feiyue/THU-feiyue/blob/main/docs/cases/example.md)。撰写完你的帖子后可以通过 [首页-贡献方式](../#2) 介绍的方式投稿，例如 Github PR, 邮件投稿等。
 
 > 本模板内容为想要通过类似途径投稿的同学提供一些参考，其中很多内容都是 optional 填写的，有些信息如果你介意提供可以空置（或者加入可接受范围内的随机扰动），若你有想额外加入的章节/改变章节标题/调整章节排布也可以自由进行。
