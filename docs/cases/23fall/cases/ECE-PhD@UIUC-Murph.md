@@ -11,7 +11,7 @@ tags:
 
 ## 基本信息
 - 本科专业：电子工程
-- 申请方向：Computer Architecture, Microelectronics, VLSI, Integrated Circuits, EDA 
+- 申请方向：Computer Architecture, Microelectronics, VLSI, Integrated Circuits, EDA
 - 申请项目：
 	- doctor: CMU, UCLA, UIUC, Duke, GaTech, Rice, USC, Purdue, UCSB, Wisconsin-Madison（均为ECE/CE专业）
 	- master: UCSD, GaTech（均为ECE专业，怕没书读用来保底的）
@@ -68,7 +68,7 @@ tags:
 > 12月上旬：12.15前都在拼命赶材料填网申，还阳了一段时间
 
 > 12月下旬：圣诞节前夕开始第一批套磁（事实上证明，这个时候才开始套磁也是完全ok的）
- 
+
 > 1月上旬：圣诞节结束后开始第二批套磁
 
 > 1-2月：迎接面试

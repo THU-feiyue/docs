@@ -56,13 +56,13 @@ comments: true
 > 大二上至今：学德语（optional）
 >
 > 大三：进组（事实证明德国 master 不需要科研经历）
->  
+>
 > 9-10 月：APS 审核材料准备
->  
+>
 > 1 月：APS 审核面谈
->  
+>
 > 2-7 月：申请
->  
+>
 > 5 月初：IELTS
 >
 > 6 月：签证
@@ -92,7 +92,7 @@ comments: true
 第一个难点是 [APS](../../prepare/help/)。**APS 审核证书是申请（大部分学校）及签证的必要材料**。笔者已知至少两位你清学生因为没有这个没能按时去德国。
 
 由于要求课程匹配度，申请需要提交培养方案（德语称 Modulhandbuch ）。**Modulhandbuch 除了课程模块说明还要每门课的课程内容简介**。
-> 德语区好像都这个德行，比如 ETH 
+> 德语区好像都这个德行，比如 ETH
 
 部分学校的语言成绩和 APS（aka 亚琛）可以在入学时提交。（这是笔者在 23 年五月才拿到 IELTS 的原因）
 > 个别 master 会要求奇怪材料，比如 RWTH Aachen 的 ms Materials Engineering 及 ms Materials Science （德授的两个）要求 TestAS，这个考试在大陆一年两场且只面向大一至大三学生（aka 可以去 hk 考）；TUM 的 ms MaterialSE 要求 GRE 但是不要求 Verbal，而大部分学校不要求 GRE。
@@ -119,11 +119,11 @@ ms 的 motivation letter 比较简单，ChatGPT 写四五百词然后 Grammerly/
 - Q: Funding？
 
     > 首先你需要存够 10w RMB 以申请签证，或用奖学金代替。
-    >  
+    >
     > 奖学金一般没有。大部分奖学金申请需要德语成绩，在 [DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) 及学校官网可查询奖学金项目。
     >
     > 德国的学签允许找实习，每周 20h 的额度。一般也需要德语。学生的实习工资有税额优惠。
-    >  
+    >
     > 此外校内会有兼职的 Hiwi 岗位（RA，TA，坐办公室等）可以补贴一点，Hiwi 不计入 20h 限制。
 
 - Q: 交换或暑研经历有多大帮助？
@@ -132,7 +132,7 @@ ms 的 motivation letter 比较简单，ChatGPT 写四五百词然后 Grammerly/
 
 - Q: 想读 PhD 怎么办？
     > 欧陆一般不接受直博，个别例外有 EPFL。
-    >  
+    >
     > 曾经有马普所直博的选项，23fall 开始这个口子似乎被堵上了，问了几个分所都这么说。可能跟所在分所有关？
 
 -------------------
