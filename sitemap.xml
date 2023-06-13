@@ -106,7 +106,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://feiyue.online/cases/23fall/cases/MatSE-MS%40RWTH%20Aachen-Tony/</loc>
+         <loc>https://feiyue.online/cases/23fall/cases/MSBA%40Columbia-David/</loc>
+         <lastmod>2023-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://feiyue.online/cases/23fall/cases/MatSE-MS%40RWTH_Aachen-Tony/</loc>
          <lastmod>2023-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
