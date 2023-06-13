@@ -30,8 +30,8 @@
     - [巴黎综合理工 Ecole Polytechnique](https://www.polytechnique.edu/en)
 - 德国：
     - [慕尼黑工业大学 TUM](https://www.tum.de/en/)
-    - [柏林洪堡大学 HU Berlin](https://www.hu-berlin.de/en)
-    - [马克思·普朗克学会(马普所) MPG](https://www.mpg.de/en)
+    - [海德堡大学 Uni Heidelberg](https://www.uni-heidelberg.de/en)
+    - [马克斯·普朗克学会(马普所) MPG](https://www.mpg.de/en)
 - 其它欧洲诸国
     - [代尔夫特理工大学 TUDelft](https://www.tudelft.nl/en/)
     - [阿姆斯特丹大学 UvA](https://www.uva.nl/en)

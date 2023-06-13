@@ -1,6 +1,6 @@
 # 文书
 
-文书是申请材料中必不可少的部分，申请时需要在网申系统中提交。至少包括 [CV](cv/)，[PS/SOP](sop/)。部分项目 required 或 optional 提交 [RP](rp)、[Writing Sample](writingsample/) 等。
+文书是申请材料中必不可少的部分，申请时需要在网申系统中提交。至少包括 [CV](cv/)，[PS/SOP/ML](sop/)。部分项目 required 或 optional 提交 [RP](rp)、[Writing Sample](writingsample/) 等。
 
 如果你有少数群体（LGBTQ、宗教信仰者、少数族裔）背景，可以试着提交 [Diversity Statement](diversity/) 来展示自己。
 
