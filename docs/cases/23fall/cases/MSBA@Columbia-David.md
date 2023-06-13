@@ -13,7 +13,7 @@ tags:
 
 - 本科专业：信息管理与信息系统
 - 申请方向：Business Analytics, Data Science混申，以及CMU的MISM项目。项目类型均为硕士，地点都在美国。
-- 最终去向：MS Stat @ Columbia
+- 最终去向：MSBA @ Columbia
 - 联系方式：<!--@tsinghua.org.cn(发邮件时请注明来意。)-->
 
 ## 申请项目与录取结果
