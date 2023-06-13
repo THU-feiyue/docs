@@ -68,9 +68,10 @@ nav:
       - AI + HCI - MSCS @ Stanford - Sophia: cases/23fall/cases/AI+HCI-MSCS@Stanford-Sophia.md
       - Anthropology - MA SA @ SOAS - luxixi717: cases/23fall/cases/Anthropology-MASA@SOAS-luxixi717.md
       - BA - MISM-BIDA @ CMU - Lucy: cases/23fall/cases/MISM-BIDA@CMU-Lucy.md
+      - BA - MSBA @ Columbia - David: cases/23fall/cases/MSBA@Columbia-David.md
       - Biostatistics - MS @ Vandy - Charlie: cases/23fall/cases/Biostatistics-MS@Vandy-Charlie.md
       - ECE - PhD @ UIUC - Murph: cases/23fall/cases/ECE-PhD@UIUC-Murph.md
-      - MatSE - MS @ RWTH Aachen - Tony: cases/23fall/cases/MatSE-MS@RWTH Aachen-Tony.md
+      - MatSE - MS @ RWTH Aachen - Tony: cases/23fall/cases/MatSE-MS@RWTH_Aachen-Tony.md
       - MatSE - MS @ UIUC - 7g: cases/23fall/cases/MatSE-MS@UIUC-7g.md
       - Stats - PhD @ NWU - v1ncent19: cases/23fall/cases/Stat-PhD@Northwestern-v1ncent19.md
     - 22 Fall:
@@ -114,6 +115,9 @@ theme:
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: false
+
+extra:
+  download_dir: 'files/'
 
 markdown_extensions:
   # Python Markdown

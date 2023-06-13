@@ -80,5 +80,5 @@
 - [确定去向](../../afterad/compare/)
 - [办签证](../../afterad/visa/)，确定 [出行计划](../../afterad/travel/) 和 [租房](../../afterad/rent/) 等。
 
-### 毕业后 fall
+### 毕业后 Oct
 - 入学，congrats!！

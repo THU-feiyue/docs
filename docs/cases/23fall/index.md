@@ -5,6 +5,7 @@
 
 ## Business Analysis
 - [MISM-BIDA @ CMU - Lucy](./cases/MISM-BIDA@CMU-Lucy.md)
+- [MSBA @ Columbia - David](./cases/MSBA@Columbia-David.md)
 
 ## Computer Science
 - [AI + HCI - MSCS @ Stanford - Sophia](./cases/AI%2BHCI-MSCS@Stanford-Sophia.md)
@@ -13,6 +14,7 @@
 - [ECE - PhD @ UIUC - Murph](./cases/ECE-PhD@UIUC-Murph.md)
 
 ## Materials Science and Engineering
+- [MatSE - MS @ RWTH Aachen - Tony](./cases/MatSE-MS@RWTH_Aachen-Tony.md)
 - [MatSE - MS @ UIUC - 7g](./cases/MatSE-MS@UIUC-7g.md)
 
 ## Statistics/Biostatics
