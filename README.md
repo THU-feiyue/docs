@@ -25,7 +25,7 @@
 如果您计划直接以网页的形式发布你的案例信息，只需要做如下四步，就像把大象塞进冰箱一样：
 
 1.  从本项目的 [GitHub](https://github.com/THU-feiyue/THU-feiyue) 页面中 fork 到自己的库，开始进行编写；
-2.  自行编写好渲染所需的 `.md` 文件后，放在 `./docs/cases/<year of ad>` 目录下（或是对已有页面进行修改）。案例的具体内容建议可见 [案例模板](cases/example)，此文件在项目中路径为 `./docs/cases/example.md`；
+2.  自行编写好渲染所需的 `.md` 文件后，放在 `./docs/cases/<year of ad>` 目录下（或是对已有页面进行修改）。案例的具体内容建议可见 [案例模板](https://feiyue.online/cases/example/)，此文件在项目中路径为 `./docs/cases/example.md`；
 3.  在 `./mkdocs.yml` 文件中的 `nav:` 部分维护网站导航结构，以确保你的帖子能在网站目录中 access 到；
 4.  提交并推送你的更改到自己的库，然后在 Github 中创建 Pull Request。
 

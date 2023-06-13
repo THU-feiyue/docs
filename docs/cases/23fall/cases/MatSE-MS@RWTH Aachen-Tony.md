@@ -5,9 +5,7 @@ tags:
   - DIY
   - RWTH Aachen
   - Germany
-comments: true
 ---
-
 
 # MatSE - ms MatE (Int) @ RWTH Aachen - Tony
 
@@ -26,10 +24,9 @@ comments: true
 
 | 学校 | 项目 | 结果 |
 | ---- | ---- | ---- |
-| RWTH Aachen | ms Materials Engineering (Int) | :material-close:03/01, 03/20 offer |
-| TUM | ms MaterialSE | :material-close:05/31, 06/01 rej |
-| Uni Stuttgart | ms MaterialS |:material-close:07/15 not ddl yet |
-<!-- material-close 我理解的是申请ddl；Zu/Ab是德语对offer/rej的说法 -->
+| RWTH Aachen | ms Materials Engineering (Int) | 03/20 offer |
+| TUM | ms MaterialSE | 06/01 rej |
+| Uni Stuttgart | ms MaterialS | not ddl yet |
 
 ## 申请背景
 
@@ -113,6 +110,7 @@ ms 的 motivation letter 比较简单，ChatGPT 写四五百词然后 Grammerly/
 ## FAQ
 
 - Q: 为什么去德国？
+
     > 想 run。
     > 想旅游。这可是申根签证。
 
@@ -127,12 +125,12 @@ ms 的 motivation letter 比较简单，ChatGPT 写四五百词然后 Grammerly/
     > 此外校内会有兼职的 Hiwi 岗位（RA，TA，坐办公室等）可以补贴一点，Hiwi 不计入 20h 限制。
 
 - Q: 交换或暑研经历有多大帮助？
+
     > 交换对申请有加分，且可以免去 APS 的面谈。
     > 暑研对德国 master 申请用处不大。
 
 - Q: 想读 PhD 怎么办？
+
     > 欧陆一般不接受直博，个别例外有 EPFL。
     >
     > 曾经有马普所直博的选项，23fall 开始这个口子似乎被堵上了，问了几个分所都这么说。可能跟所在分所有关？
-
--------------------

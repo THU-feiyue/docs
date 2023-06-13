@@ -17,7 +17,7 @@ tags:
     - master: MAS @ MIT Media Lab(NCB Lab)
     - MS/PhD: PhD MatSE @ Northwestern, PhD MatSE @ UMich, PhD MatSE @ UIUC, PhD MatSE @ Penn State , PhD Nanoengineering @ UCSD, PhD Mechanical Engineering @ USC, PhD CBE @ NCSU.
 - 最终去向：MS MatSE @ UIUC
-- 联系方式：qiry19@mails.tsinghua.edu.cn
+- 联系方式：<mailto:qiry19@tsinghua.org.cn>
 
 ## 申请和录取结果
 
