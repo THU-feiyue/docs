@@ -8,7 +8,7 @@
 |  ----  | ----  | ---- |
 |类型|[List of master's degrees - Wikipedia](https://en.wikipedia.org/wiki/List_of_master%27s_degrees)<br>Master of Arts (MA)<br>Master of Science (MS, MSc)<br>Master of Engineering(MEng)<br>Master of Business Administration (MBA)<br>etc.|[List of doctoral degrees in the US - Wikipedia](https://en.wikipedia.org/wiki/List_of_doctoral_degrees_in_the_US)<br>Doctor of Arts (D.A.)<br>Doctor of Education (Ed.D.)<br>Doctor of Philosophy (Ph.D.)<br>etc.|
 |学制|1-3 年|3-7 年|
-|花费|20-90 万人民币/年|免学费<br>通常有工资补助|
+|花费|10-90 万人民币/年|免学费<br>通常有工资补助|
 |内容|课程/论文|研究|
 |未来发展|工业/商业/转申博士|学术研究|
 

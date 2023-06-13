@@ -38,3 +38,38 @@
 
 #### 毕业后 fall
 - 入学，congrats!！
+
+----------
+
+大部分 PhD 申请均遵循上述时间线。master 申请的时间线相对灵活，此处以申请德国冬季学期（WS）入学为例举一个极端例子。仍以本科学制四年为例。
+
+#### 大二及以前开始，直至申请
+- 学习德语（optional）
+
+#### 大三上、下
+- [交换项目](../../prepare/experience/exchange/) 等
+- 刷课，提高[课程匹配度](../../prepare/exam/#3) 和/或 GPA
+- [语言考试](../../prepare/exam/#21) 试水
+
+#### 大四上 Sep
+- 准备并递交[APS](../../prepare/help/)材料
+- 刷课，提高[课程匹配度](../../prepare/exam/#3) 和/或 GPA
+
+#### 大四上 Nov
+- TestDaF考试（optional），参见 [语言考试](../../prepare/exam/#23)
+
+#### 大四上 Nov-Jan
+- [APS](../../prepare/help/)面谈，时间以排队顺序而定
+- 文件材料准备，如开始撰写 CV 和 ML 等 [文书材料](../../prepare/material/)。
+
+#### 大四下 Feb-Jul
+- [选校定位](../../prepare/selection/)
+- 递交申请。目前德国学校均采用网上申请系统，详见 [提交系统](../../prepare/onlinesystem/)。
+> 对你没看错，确实是 Feb-Jul。德国学校 10.1 开学，因此申请时间晚于其余地区。较早的 RWTH Aachen ddl为 3.1，其次 TUM 5.31，剩余绝大部分学校 ddl 为 7.15。
+
+#### 大四下 Mar-Aug
+- [确定去向](../../afterad/compare/)
+- [办签证](../../afterad/visa/)，确定 [出行计划](../../afterad/travel/) 和 [租房](../../afterad/rent/) 等。
+
+#### 毕业后 fall
+- 入学，congrats!！

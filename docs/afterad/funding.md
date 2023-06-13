@@ -13,5 +13,7 @@
     - [国家留学网](https://www.csc.edu.cn/)
     - [2022年国家留学基金资助出国留学人员选派简章](https://www.csc.edu.cn/article/2306)
 
+5. Work：部分国家（如德国）的学签支持一定时间的课外工作，可以自行在校外打工或实习。
+
 
 对于 PhD 项目申请一般都是带奖的（当然这个奖可能有很多个 component，比如有几年发 fellowship 有几年发 stipend，或者要做 TA/RA 来发 stipend 等等）。 master 项目一般是不带奖的，或者需要自己申请。我们建议同学们在面试和接 offer 前注意一下 funding 问题，尤其是 PhD 项目，因为 funding 问题可能会影响你的整个科研生活体验。
