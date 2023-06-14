@@ -1,5 +1,4 @@
 # 2022 Fall
 
-## Computer Science
-
-## Materials Science and Engineering
+## East Asian Studies
+[Sociology/East Asian Studies - MA EAS @ Stanford - FriedChicken](./cases/EastAsianStudies_Sociology-MA@Stanford-FriedChicken.md)
