@@ -5,6 +5,7 @@ tags:
   - Master
   - Doctor
   - Biostatistics
+  - Statistics
   - Vandy
 ---
 
