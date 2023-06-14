@@ -116,9 +116,6 @@ theme:
   include_search_page: false
   search_index_only: false
 
-extra:
-  download_dir: 'files/'
-
 markdown_extensions:
   # Python Markdown
   - abbr

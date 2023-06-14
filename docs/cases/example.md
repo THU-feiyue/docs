@@ -10,8 +10,9 @@ comments: true
 ---
 
 <!--
-[下载Markdown模板](../files/tamplate.md){: .md-button .md-button--primary download} [下载Word模板](../files/tamplate.doc){: .md-button .md-button--primary download}
+[下载Markdown模板](){: .md-button .md-button--primary download} 
 -->
+[下载Word模板](example.docx){: .md-button .md-button--primary download}
 
 tags包括申请项目类型、本科专业、申请专业、去向院校、个人经历等。可以定义你觉得必要的 tag，优先从 [已有 tag](../tags/) 中选取。
 
