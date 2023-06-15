@@ -18,7 +18,8 @@ tags:
     - master: ms MatE (Int) @ RWTH Aachen, ms MatlSE @ TUM, ms MatS @ Uni Stuttgart.
 
 - 最终去向：ms MatE (Int) @ RWTH Aachen
-- 联系方式：[邮箱](mailto:Tony-zhn@hotmail.com)，[homepage](https://tony-zhn.github.io/)
+
+- 联系方式：[github](https://github.com/Tony-zhn)
 
 ## 申请和录取结果
 
@@ -111,8 +112,9 @@ ms 的 motivation letter 比较简单，ChatGPT 写四五百词然后 Grammerly/
 
 - Q: 为什么去德国？
 
-    > 想 run。
-    > 想旅游。这可是申根签证。
+    > run。
+    > 旅游。这可是申根签证。
+
 
 - Q: Funding？
 
