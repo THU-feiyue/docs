@@ -31,7 +31,7 @@ tags:
 |	| MSBA @ Emory	|rej|
 |	| MSBA @ UT Austin	|rej|
 |DS	| MDS @ Vanderbilt	|ad|
-|	| MSDSA @ Georgetown|ad|	
+|	| MSDSA @ Georgetown|ad|
 |	| MDS @ UMich	|rej|
 |	| MDS @ Harvard	|rej|
 |	| MSDS @ JHU	|rej|
