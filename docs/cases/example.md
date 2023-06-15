@@ -13,7 +13,7 @@ comments: true
 
 > 我们的 tag 建议：项目类型、专业方向只要是申请了的都写上，院校只写最终去向，个人经历 highlight 一些重要的，其它的可以在正文中提及。
 
-[Markdown模板](https://github.com/THU-feiyue/THU-feiyue/blob/main/docs/cases/example.md){: .md-button .md-button--primary download} 
+[Markdown模板](https://github.com/THU-feiyue/THU-feiyue/blob/main/docs/cases/example.md){: .md-button .md-button--primary download}
 [Word模板](example.docx){: .md-button .md-button--primary download}
 
 可以直接参考模板和已有的帖子撰写你的案例，完成后可以通过 [贡献方式](../#2) 介绍的方式投稿，例如 Github PR、邮件投稿等。其中 `.md` 文件能够直接编译为类似本页面的案例帖，`.docx` word 文件会经过编辑部重排为 `.md` 后发布。

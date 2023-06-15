@@ -20,3 +20,4 @@
 ## Statistics/Biostatics
 - [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)
+- [Stat - PhD @ UMN - Mariana](./cases/Stat-PhD%40UMN-Mariana.md)
