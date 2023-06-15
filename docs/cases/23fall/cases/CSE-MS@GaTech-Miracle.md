@@ -7,15 +7,15 @@ tags:
   - GaTech
 ---
 
-# CSE - MS  @ GaTech - Miracle 
+# CSE - MS  @ GaTech - Miracle
 
 ## 基本信息
 
 - 本科专业：电子工程
 - 申请方向：Computer Science, Computer Science & Engineering, Electrical &   Computer Engineering, Electrical Engineering
 - 申请项目：
-    - master: JHU, Columbia, Duke, Northwestern(CE,EE), Brown, UCLA, CMU, Cornell, Umich, UCSD, UIUC, GaTech(CSE), UW-Seattle, MBZUAI(ML) (其余未特殊标明的都是EE, ECE) 
-    
+    - master: JHU, Columbia, Duke, Northwestern(CE,EE), Brown, UCLA, CMU, Cornell, Umich, UCSD, UIUC, GaTech(CSE), UW-Seattle, MBZUAI(ML) (其余未特殊标明的都是EE, ECE)
+
 - 最终去向：MS CSE @ GaTech
 - 联系方式：jiayiqian1@gmail.com
 
