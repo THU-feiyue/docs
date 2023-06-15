@@ -7,8 +7,9 @@
 - [MISM-BIDA @ CMU - Lucy](./cases/MISM-BIDA@CMU-Lucy.md)
 - [MSBA @ Columbia - David](./cases/MSBA@Columbia-David.md)
 
-## Computer Science
+## Computer Science and Engineering
 - [AI + HCI - MSCS @ Stanford - Sophia](./cases/AI%2BHCI-MSCS@Stanford-Sophia.md)
+- [CSE - MS  @ GaTech - Miracle](./cases/CSE-MS@GaTech-Miracle.md)
 
 ## Electrical and Computer Engineering
 - [ECE - PhD @ UIUC - Murph](./cases/ECE-PhD@UIUC-Murph.md)
@@ -20,4 +21,4 @@
 ## Statistics/Biostatics
 - [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)
-- [Stat - PhD @ UMN - Mariana](./cases/Stat-PhD%40UMN-Mariana.md)
+- [Stat - PhD @ UMN - Mariana](./cases/Stat-PhD@UMN-Mariana.md)
