@@ -94,7 +94,7 @@ Sociology/East Asian Studies - MA EAS @ Stanford - FriedChicken
 	- Columbia MARSEA: 项目小而精，时不时还给奖。项目基本上是社科导向，因为同校人文还有一个EALAC，注意区分。
 	- Berkeley Asian Studies: 一年制，项目很小，bar比较迷，我不认识在读的同学所以没什么直观认知
 - 人文的项目我整体都不是很了解，除了上面已经列出来的，口碑不错 & 比较广为人知的有 Columbia EALAC, Stanford EALC, Duke East Asian Studies, UCLA East Asian Studies (有一些小众的项目我不太熟悉，所以也就没列出来了)
-	
+
 > 总的来看，这些项目都可以一试，对于清华的同学来说东亚相关的项目比较随缘（随机性比较大），社会学/定量的项目问题不大甚至还可以拿奖。如果要读PhD又愁没有美国connection和训练的话美硕是很好的选择。
 
 ### 范式差异
