@@ -7,7 +7,7 @@
     由于 mkdocs 网站模板的问题，暂时未能实现内置的对 tag 进行分类并显示分类目录，未来会尝试加入此功能。目前读者可以直接先用页面中的搜索框搜索下面列出的 tag （目前此索引暂时为手动维护）。
 
 #### 按学科：
-<span class="md-tag">AI</span><span class="md-tag">Anthropology</span><span class="md-tag">BA</span><span class="md-tag">Biostatistics</span><span class="md-tag">CSE</span><span class="md-tag">DS</span><span class="md-tag">ECE</span><span class="md-tag">EE</span><span class="md-tag">HCI</span><span class="md-tag">IMIS</span><span class="md-tag">MaterialSE</span><span class="md-tag">Physics</span><span class="md-tag">Statistics</span>
+<span class="md-tag">AI</span><span class="md-tag">Anthropology</span><span class="md-tag">BA</span><span class="md-tag">Biostatistics</span><span class="md-tag">CSE</span><span class="md-tag">DS</span><span class="md-tag">East Asian Studies</span><span class="md-tag">ECE</span><span class="md-tag">EE</span><span class="md-tag">HCI</span><span class="md-tag">IMIS</span><span class="md-tag">MaterialSE</span><span class="md-tag">Physics</span><span class="md-tag">Sociology</span><span class="md-tag">Statistics</span>
 
 #### 按项目类型：
 <span class="md-tag">Doctor</span><span class="md-tag">Master</span>

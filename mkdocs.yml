@@ -84,7 +84,7 @@ nav:
   # - 招生信息:
   #   - ad/index.md
   - 联系与支持:
-    - contact/support.md
+    - 联系与支持: contact/support.md
     - 功德墙: contact/contributor.md
 
 theme:
