@@ -9,6 +9,7 @@
 
 ## Computer Science and Engineering
 - [AI + HCI - MSCS @ Stanford - Sophia](./cases/AI%2BHCI-MSCS@Stanford-Sophia.md)
+- [CS + EE - MS @ Stanford - Chris](./cases/CS%2BEE-MS@Stanford-Chris.md)
 - [CSE - MS  @ GaTech - Miracle](./cases/CSE-MS@GaTech-Miracle.md)
 
 ## Electrical and Computer Engineering
@@ -19,6 +20,6 @@
 - [MatSE - MS @ UIUC - 7g](./cases/MatSE-MS@UIUC-7g.md)
 
 ## Statistics/Biostatics
-- [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)
+- [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)
 - [Stat - PhD @ UMN - Mariana](./cases/Stat-PhD@UMN-Mariana.md)

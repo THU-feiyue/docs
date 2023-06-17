@@ -18,7 +18,7 @@ tags:
     - master: MSEE@Stanford, EECS Meng@UC Berkeley, {MSCS, MCDS, MSML, MIIS, MSAII，MSECE}@CMU, MSCS@UT Austin, MSCS@GaTech, MSCS@UCSD, MCS@UIUC, MSECE@UT Austin, MSCS@Columbia, MSCS@Rice, CS28@USC.
 
 - 最终去向：MSEE@Stanford
-- 联系方式：857172970@qq.com / b857172970
+- 联系方式：<mailto:857172970@qq.com> / V: b857172970
 
 
 ## 申请和录取结果
