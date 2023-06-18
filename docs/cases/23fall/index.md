@@ -19,6 +19,9 @@
 - [MatSE - MS @ RWTH Aachen - Tony](./cases/MatSE-MS@RWTH_Aachen-Tony.md)
 - [MatSE - MS @ UIUC - 7g](./cases/MatSE-MS@UIUC-7g.md)
 
+## Sociology
+- [Sociology - MA @ UAlberta - RZ](./cases/Sociology-MA@UAlberta-RZ.md)
+
 ## Statistics/Biostatics
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)
 - [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)

@@ -7,8 +7,6 @@ tags:
 
 ---
 
-------------------------------------------------
-
 # Sociology - MA @ UAlberta - RZ
 
 
@@ -16,9 +14,11 @@ tags:
 
 - 本科专业：社会学
 - 申请方向：sociology & labor studies
-- 申请项目：（无特殊注明均为社会学sociology项目）Cornell PhD; SUNY Buffalo PhD; Harvard PhD; Boston University MA; Duke MA in East Asian Studies; Brandeis MA; McGill MA; York University (Canada) MA; Simon Fraser University MA; University of Alberta MA; McMaster MA in Labor Studies;
+- 申请项目：（无特殊注明均为社会学sociology项目）
+  - Cornell PhD; SUNY Buffalo PhD; Harvard PhD;
+  - Boston University MA; Duke MA in East Asian Studies; Brandeis MA; McGill MA; York University (Canada) MA; Simon Fraser University MA; University of Alberta MA; McMaster MA in Labor Studies;
 - 最终去向：MA in sociology @ University of Alberta
-- 联系方式：邮箱ecila.zz@outlook.com；telegram @RuthyZzz
+- 联系方式：<mailto:ecila.zz@outlook.com> ；telegram @RuthyZzz
 
 <br>
 
@@ -55,6 +55,3 @@ tags:
 
 [《申请总结｜两轮申请后我想说些什么》](https://articles.closed.social/application-experience-summary-03-07
 )
-
-
--------------------
