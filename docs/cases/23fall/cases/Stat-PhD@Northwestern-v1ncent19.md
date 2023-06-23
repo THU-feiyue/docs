@@ -5,6 +5,7 @@ tags:
   - Master
   - Doctor
   - 数理基科
+  - 物理
   - Physics
   - Statistics
   - Biostatistics
