@@ -2,6 +2,7 @@
 tags:
   - DIY
   - 跨专业
+  - 暑研
   - Master
   - Doctor
   - Biostatistics
