@@ -26,7 +26,6 @@
 ## Sociology
 - [Sociology - MA @ UAlberta - RZ](./cases/Sociology-MA@UAlberta-RZ.md)
 
-
 ## Statistics/Biostatics
 - [Biostatistics - MS @ Vandy - Charlie](./cases/Biostatistics-MS@Vandy-Charlie.md)
 - [Stats - PhD @ Northwestern - V1ncent19](./cases/Stat-PhD@Northwestern-v1ncent19.md)

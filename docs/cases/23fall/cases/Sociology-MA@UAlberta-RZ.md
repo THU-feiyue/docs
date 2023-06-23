@@ -4,7 +4,7 @@ tags:
   - Doctor
   - Sociology
   - East Asian Studies
-
+  - UAlberta
 ---
 
 # Sociology - MA @ UAlberta - RZ

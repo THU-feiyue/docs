@@ -104,13 +104,14 @@ tags:
 
 -   UCSB: 有两个老师分别面试，各20-30min。其中一个老师在邮件里事先提供了会问的问题，如下，供大家参考：
 
-    >   "To give you an idea of what to expect, I will ask some (perhaps not all) of the following questions:
+    >   To give you an idea of what to expect, I will ask some (perhaps not all) of the following questions:
+
     >   -   What aspect of graduate school itself most excites you?
     >   -   What person or people at UCSB do you see as the most natural fits, and why?
     >   -   Other than research, what do you most hope to do in graduate school (extracurricular, diversity, outreach, etc.)?
     >   -   What do you want to do with an astrophysics degree?  (it's ok if you don't know)
     >   -   What is an example of a research problem/topic that you especially enjoyed, and why?
     >   -   What research achievement are you proudest of? It would be helpful if you could present a slide or two to illustrate your work.
-    >   -   What is an example of a research problem that you found particularly challenging?"
+    >   -   What is an example of a research problem that you found particularly challenging?
 
     另一个老师问的问题其实也大同小异。

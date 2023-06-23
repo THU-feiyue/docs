@@ -16,7 +16,7 @@
 <span class="md-tag">DIY</span><span class="md-tag">EE</span><span class="md-tag">精仪</span><span class="md-tag">跨专业</span><span class="md-tag">物理</span><span class="md-tag">暑研</span><span class="md-tag">数理基科</span><span class="md-tag">Yao Class</span><span class="md-tag">外文</span>
 
 #### 按录取院校：
-<span class="md-tag">CMU</span><span class="md-tag">Columbia</span><span class="md-tag">GaTech</span><span class="md-tag">Northwestern</span><span class="md-tag">RWTH Aachen</span><span class="md-tag">SOAS</span><span class="md-tag">Stanford</span><span class="md-tag">Vandy</span><span class="md-tag">UIUC</span><span class="md-tag">UMD, College Park</span><span class="md-tag">UMN</span>
+<span class="md-tag">CMU</span><span class="md-tag">Columbia</span><span class="md-tag">GaTech</span><span class="md-tag">Northwestern</span><span class="md-tag">RWTH Aachen</span><span class="md-tag">SOAS</span><span class="md-tag">Stanford</span><span class="md-tag">Vandy</span><span class="md-tag">UAlberta</span><span class="md-tag">UIUC</span><span class="md-tag">UMD, College Park</span><span class="md-tag">UMN</span>
 
 #### 其它
 <span class="md-tag">Germany</span>
