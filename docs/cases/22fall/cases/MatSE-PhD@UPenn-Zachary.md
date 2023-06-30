@@ -18,7 +18,7 @@ comments: true
     - Master: ETH, EPFL
 
 - 最终去向：PhD MSE @ UPenn (advisor: Liang Feng)
-- 联系方式：shuygu@seas.upenn.edu, 知乎 @小菜狗
+- 联系方式：[shuygu@seas.upenn.edu](mailto:shuygu@seas.upenn.edu), 知乎 @小菜狗
 
 ## 申请和录取结果
 
@@ -37,9 +37,9 @@ comments: true
 | UCLA | PhD MSE |:material-check:03.08 ad |
 | UCSD | PhD MSE |:material-check:03.11 unofficial offer (from PI), 03.16 withdrawn |
 | EPFL | MSc MSE |:material-check:03.17 ad |
-| UCSB | PhD Materials |:material-close:01.13 interview, 04.13 reject |
 | UC Berkeley | PhD MSE |:material-close:03.30 reject |
 | Northwestern | PhD MSE | :material-close:04.01 reject |
+| UCSB | PhD Materials |:material-close:01.13 interview, 04.13 reject |
 | CMU | PhD MSE | :material-close:05.02 reject |
 
 ## 申请背景
