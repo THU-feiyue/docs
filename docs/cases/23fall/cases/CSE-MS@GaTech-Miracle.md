@@ -17,7 +17,7 @@ tags:
     - master: JHU, Columbia, Duke, Northwestern(CE,EE), Brown, UCLA, CMU, Cornell, Umich, UCSD, UIUC, GaTech(CSE), UW-Seattle, MBZUAI(ML) (其余未特殊标明的都是EE, ECE)
 
 - 最终去向：MS CSE @ GaTech
-- 联系方式：jiayiqian1@gmail.com
+- 联系方式：<mailto:jiayiqian1@gmail.com>
 
 
 ## 申请和录取结果

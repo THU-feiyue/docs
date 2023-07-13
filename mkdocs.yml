@@ -30,7 +30,6 @@ nav:
     - 推荐信: prepare/rl.md
     - 选校定位:
       - prepare/selection/index.md
-      - 项目介绍: prepare/selection/programs.md
       - 套磁: prepare/selection/touch.md
     - 文书:
       - prepare/material/index.md
@@ -83,8 +82,6 @@ nav:
       - cases/22fall/index.md
       - Sociology/East Asian Studies - MA EAS @ Stanford - FriedChicken: cases/22fall/cases/EastAsianStudies_Sociology-MA@Stanford-FriedChicken.md
       - MatSE - PhD @ UPenn - Zachary: cases/22fall/cases/MatSE-PhD@UPenn-Zachary.md
-    - 21 Fall:
-      - cases/21fall/index.md
   # - 招生信息:
   #   - ad/index.md
   - 联系与支持:

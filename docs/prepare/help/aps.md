@@ -1,4 +1,3 @@
-
 为打击学历造假，德国设置了留德人员审核部，面向中、印等个别国家的公民进行**学历审查**，**兼具面签功能**。审核机构及审核证书均可简称为 APS （Akademische Prüfstelle）。APS 审核在“[德国驻华使馆文化处留德人员审核部](https://www.aps.org.cn/zh/)”进行，正常 master 申请需通过[一般国内申请人审核程序](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren)。
 
 APS 材料繁多，建议从大三暑假开始准备。一些典型材料有：

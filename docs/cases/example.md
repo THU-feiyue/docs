@@ -6,7 +6,6 @@ tags:
   - Statistics
   - DS
   - Stanford
-comments: true
 ---
 
 > tags 包括申请项目类型、本科专业、申请专业、去向院校、个人经历等。可以定义你觉得必要的 tag，优先从 [已有 tag](../tags/) 中选取。
@@ -26,7 +25,7 @@ comments: true
 
 !!! note
 
-    目前本模板内容和呈现形式还在优化中，如果有任何建议可以在本页面末尾的评论区留下你的评论。本帖子源 `.md` 文件的路径为 `./docs/cases/example.md`。
+    目前本模板内容和呈现形式还在优化中，如果有任何建议可以在[Github讨论区](https://github.com/THU-feiyue/THU-feiyue/discussions)提出。本帖子源 `.md` 文件的路径为 `./docs/cases/example.md`。
 
 > 本模板内容为想要通过类似途径投稿的同学提供一些参考，其中很多内容都是 optional 填写的，有些信息如果你介意提供可以空置（或者加入可接受范围内的随机扰动），若你有想额外加入的章节/改变章节标题/调整章节排布也可以自由进行。
 

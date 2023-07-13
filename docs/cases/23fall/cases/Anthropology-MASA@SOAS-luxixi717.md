@@ -19,7 +19,7 @@ tags:
     - master: Master Soc @ Sciences Po, MSc SA @ LSE, MSc Anthropology and Development @ LSE, MSc SA @ Edinburgh, MA SA @ Manchester, MA Socio-Cultural Anthropology @ Durham, MA SA @ SOAS, MPhil SA @ Cambridge.
 
 - 最终去向：MA SA @ SOAS
-- 联系方式: [邮箱](mailto:luxixi717@gmail.com)
+- 联系方式: [luxixi717@gmail.com](mailto:luxixi717@gmail.com)
 
 
 ## 申请和录取结果

@@ -22,7 +22,7 @@ tags:
     - PhD: Princeton(Astro), Caltech(Physics), Harvard(Astro), UC Berkeley(Physics), Columbia(Astro), UA(Astro), UCSC(Astro), UMD(Physics), JHU(Astro), UCSB(Physics), UVa(Astro), CU Boulder(Astro), UW Madison(Astro), Cambridge(Applied Math and Theoretical Physics)
 
 - 最终去向：Physics PhD @ UMD
-- 联系方式: [zengsz19@outlook.com](mailto:zengsz19@outlook.com)
+- 联系方式: <mailto:zengsz19@outlook.com>
 
 
 ## 申请和录取结果
