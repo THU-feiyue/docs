@@ -12,13 +12,15 @@
 - [CS + EE - MS @ Stanford - Chris](./cases/CS%2BEE-MS@Stanford-Chris.md)
 - [CSE - MS  @ GaTech - Miracle](./cases/CSE-MS@GaTech-Miracle.md)
 
+# East Asian Study
+- [History/EAS-MA Ames @ UNC – AyaHuang](./cases/History%2BEAS-MA_AMES@UNC-AyaHuang.md)
+
 ## Electrical and Computer Engineering
 - [ECE - PhD @ UIUC - Murph](./cases/ECE-PhD@UIUC-Murph.md)
 
 ## Materials Science and Engineering
 - [MatSE - MS @ RWTH Aachen - Tony](./cases/MatSE-MS@RWTH_Aachen-Tony.md)
 - [MatSE - MS @ UIUC - 7g](./cases/MatSE-MS@UIUC-7g.md)
-
 
 ## Physics
 - [AstroPhysics - PhD @ UMD - zengsz19](./cases/Astrophysics-PhD@UMD-zengsz19.md)
