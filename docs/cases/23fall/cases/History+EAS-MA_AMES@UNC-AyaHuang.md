@@ -1,8 +1,8 @@
 ---
-tags: 
+tags:
 
-- Master 
-- East Asian Studies 
+- Master
+- East Asian Studies
 - UNC
 
 ---
