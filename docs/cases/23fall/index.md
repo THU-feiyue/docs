@@ -10,11 +10,11 @@
 ## Computer Science and Engineering
 - [AI + HCI - MSCS @ Stanford - Sophia](./cases/AI%2BHCI-MSCS@Stanford-Sophia.md)
 - [CS + EE - MS @ Stanford - Chris](./cases/CS%2BEE-MS@Stanford-Chris.md)
-- [CSE - MS  @ GaTech - Miracle](./cases/CSE-MS@GaTech-Miracle.md)
-- [CS - PhD  @ Northwestern - Luke](./cases/CS-PhD@Northwestern-Luke.md)
+- [CSE - MS @ GaTech - Miracle](./cases/CSE-MS@GaTech-Miracle.md)
+- [CS - PhD @ Northwestern - Luke](./cases/CS-PhD@Northwestern-Luke.md)
 
 # East Asian Study
-- [History/EAS-MA Ames @ UNC – AyaHuang](./cases/History%2BEAS-MA_AMES@UNC-AyaHuang.md)
+- [History/EAS - MA Ames @ UNC – AyaHuang](./cases/History%2BEAS-MA_AMES@UNC-AyaHuang.md)
 
 ## Electrical and Computer Engineering
 - [ECE - PhD @ UIUC - Murph](./cases/ECE-PhD@UIUC-Murph.md)
