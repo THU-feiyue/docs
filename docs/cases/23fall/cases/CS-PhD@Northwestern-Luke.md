@@ -17,11 +17,10 @@ tags:
 - 本科专业：电子工程
 - 申请方向：Computational Imaging, Computational Photography, Computer Vision
 - 申请项目：
-	- doctor: Stanford EE, MIT EECS, Berkeley EECS, CMU CS Robotics ECE, Caltech CMS,  Princeton CS, Cornell CS, Harvard EE, UIUC ECE, UCLA ECE, UCSD ECE, GaTech CSE, Northwestern CS, Purdue ECE
-	- master: CMU MSR MSCV MSCS MSECE, UT Austin MSCS, UofT MScCS
+  - doctor: Stanford EE, MIT EECS, Berkeley EECS, CMU CS Robotics ECE, Caltech CMS,  Princeton CS, Cornell CS, Harvard EE, UIUC ECE, UCLA ECE, UCSD ECE, GaTech CSE, Northwestern CS, Purdue ECE
+  - master: CMU MSR MSCV MSCS MSECE, UT Austin MSCS, UofT MScCS
 - 最终去向：CS PhD @ Northwestern
 - 联系方式：[lukeli0425@gmail.com](mailto:lukeli0425@gmail.com)
-
 
 ## 申请和录取结果
 
