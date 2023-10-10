@@ -1,3 +1,4 @@
+- [自动化系飞跃手册](https://dagrad.site/) （清华/校友邮箱登录）
 - [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
 - [中科大飞跃手册](https://www.ustcflyer.com/welcome) （需要登陆）, [2015版](http://www.ustc.global/wp-content/uploads/2016/01/USTC-Fly-Guide-2015.pdf)
 - [上海大学溯源手册-飞跃版块](https://shuosc.github.io/fly/categories/%E7%95%99%E5%AD%A6/)
