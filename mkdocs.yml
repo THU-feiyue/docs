@@ -53,7 +53,6 @@ nav:
     - 签证: afterad/visa.md
     - 前往: afterad/travel.md
     - 租房: afterad/rent.md
-    - 生活: afterad/life.md
   - 案例:
   # 请案例贡献者将自己的文档放在对应年份对应的文件夹下，并维护好这里的目录，格式为
   # - <program>: <directory from ./docs>
@@ -75,7 +74,7 @@ nav:
       - CS - PhD @ Northwestern - Luke: cases/23fall/cases/CS-PhD@Northwestern-Luke.md
       - CS - PhD @ Columbia - Colin: cases/23fall/cases/CS-PhD@Columbia-Colin.md
       - ECE - PhD @ UIUC - Murph: cases/23fall/cases/ECE-PhD@UIUC-Murph.md
-      - History/EAS-MA Ames @ UNC – AyaHuang: cases/23fall/cases/History+EAS-MA_AMES@UNC-AyaHuang.md
+      - History/EAS-MA Ames @ UNC - AyaHuang: cases/23fall/cases/History+EAS-MA_AMES@UNC-AyaHuang.md
       - MatSE - MS @ RWTH Aachen - Tony: cases/23fall/cases/MatSE-MS@RWTH_Aachen-Tony.md
       - MatSE - MS @ UIUC - 7g: cases/23fall/cases/MatSE-MS@UIUC-7g.md
       - Sociology - MA @ UAlberta - RZ: cases/23fall/cases/Sociology-MA@UAlberta-RZ.md
@@ -85,8 +84,6 @@ nav:
       - cases/22fall/index.md
       - Sociology/East Asian Studies - MA EAS @ Stanford - FriedChicken: cases/22fall/cases/EastAsianStudies_Sociology-MA@Stanford-FriedChicken.md
       - MatSE - PhD @ UPenn - Zachary: cases/22fall/cases/MatSE-PhD@UPenn-Zachary.md
-  # - 招生信息:
-  #   - ad/index.md
   - 联系与支持:
     - 联系与支持: contact/support.md
     - 功德墙: contact/contributor.md

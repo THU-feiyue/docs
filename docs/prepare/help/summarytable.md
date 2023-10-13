@@ -5,3 +5,5 @@
 ![](../../images/table_example.png)
 
 ![](../../images/table_David.png)
+
+Thanks to Vincent and David.
