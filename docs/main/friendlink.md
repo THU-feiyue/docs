@@ -1,3 +1,4 @@
+- [飞跃数据库](https://database.feiyue.online/)
 - [自动化系飞跃手册](https://dagrad.site/) （清华/校友邮箱登录）
 - [Open CS Application](https://opencs.app/)
 - [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
