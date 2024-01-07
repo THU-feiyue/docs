@@ -28,16 +28,17 @@ nav:
       - 实习: prepare/experience/intern.md
       - 交换: prepare/experience/exchange.md
     - 推荐信: prepare/rl.md
-    - 选校定位:
-      - prepare/selection/index.md
-      - 套磁: prepare/selection/touch.md
+    - 选校定位: prepare/selection.md
+    - 套磁: prepare/touch.md
     - 文书:
       - prepare/material/index.md
-      - PS / SOP: prepare/material/sop.md
-      - Research Proposal: prepare/material/rp.md
       - CV: prepare/material/cv.md
+      - PS / SOP: prepare/material/sop.md
+      - 成绩单、学位证: prepare/material/transcript.md
+      - Research Proposal: prepare/material/rp.md
       - Diversity Statement: prepare/material/diversity.md
       - Writing Sample: prepare/material/writingsample.md
+      - 个人网站/作品集: prepare/material/homepage.md
     - 网申: prepare/onlinesystem.md
     - 面试: prepare/interview.md
     - 其它帮助:
