@@ -3,7 +3,7 @@ repo_url: https://github.com/THU-feiyue/THU-feiyue
 edit_uri: edit/main/docs/
 site_url: https://feiyue.online
 site_author: THU Feiyue Team
-copyright: 'Copyright &copy; 2023 THU Feiyue Team'
+copyright: 'Copyright &copy; 2024 THU Feiyue Team'
 
 nav:
   - 首页:
@@ -28,16 +28,17 @@ nav:
       - 实习: prepare/experience/intern.md
       - 交换: prepare/experience/exchange.md
     - 推荐信: prepare/rl.md
-    - 选校定位:
-      - prepare/selection/index.md
-      - 套磁: prepare/selection/touch.md
+    - 选校定位: prepare/selection.md
+    - 套磁: prepare/touch.md
     - 文书:
       - prepare/material/index.md
-      - PS / SOP: prepare/material/sop.md
-      - Research Proposal: prepare/material/rp.md
       - CV: prepare/material/cv.md
+      - PS / SOP: prepare/material/sop.md
+      - 成绩单、学位证: prepare/material/transcript.md
+      - Research Proposal: prepare/material/rp.md
       - Diversity Statement: prepare/material/diversity.md
       - Writing Sample: prepare/material/writingsample.md
+      - 个人网站/作品集: prepare/material/homepage.md
     - 网申: prepare/onlinesystem.md
     - 面试: prepare/interview.md
     - 其它帮助:
@@ -53,37 +54,6 @@ nav:
     - 签证: afterad/visa.md
     - 前往: afterad/travel.md
     - 租房: afterad/rent.md
-  - 案例:
-  # 请案例贡献者将自己的文档放在对应年份对应的文件夹下，并维护好这里的目录，格式为
-  # - <program>: <directory from ./docs>
-  # 例子：
-  # - Stat - MS Stat @ Stanford - Xiqin: cases/23fall/stat-stanford-xiqin.md
-    - 案例: cases/index.md
-    - 案例模板: cases/example.md
-    - Tag 索引: cases/tags.md
-    - 23 Fall:
-      - cases/23fall/index.md
-      - AI + HCI - MSCS @ Stanford - Sophia: cases/23fall/cases/AI+HCI-MSCS@Stanford-Sophia.md
-      - Anthropology - MA SA @ SOAS - luxixi717: cases/23fall/cases/Anthropology-MASA@SOAS-luxixi717.md
-      - AstroPhysics - PhD @ UMD - zengsz19: cases/23fall/cases/Astrophysics-PhD@UMD-zengsz19.md
-      - BA - MISM-BIDA @ CMU - Lucy: cases/23fall/cases/MISM-BIDA@CMU-Lucy.md
-      - BA - MSBA @ Columbia - David: cases/23fall/cases/MSBA@Columbia-David.md
-      - Biostatistics - MS @ Vandy - Charlie: cases/23fall/cases/Biostatistics-MS@Vandy-Charlie.md
-      - CSE - MS  @ GaTech - Miracle: cases/23fall/cases/CSE-MS@GaTech-Miracle.md
-      - CS + EE - MS @ Stanford - Chris: cases/23fall/cases/CS+EE-MS@Stanford-Chris.md
-      - CS - PhD @ Northwestern - Luke: cases/23fall/cases/CS-PhD@Northwestern-Luke.md
-      - CS - PhD @ Columbia - Colin: cases/23fall/cases/CS-PhD@Columbia-Colin.md
-      - ECE - PhD @ UIUC - Murph: cases/23fall/cases/ECE-PhD@UIUC-Murph.md
-      - History/EAS-MA Ames @ UNC - AyaHuang: cases/23fall/cases/History+EAS-MA_AMES@UNC-AyaHuang.md
-      - MatSE - MS @ RWTH Aachen - Tony: cases/23fall/cases/MatSE-MS@RWTH_Aachen-Tony.md
-      - MatSE - MS @ UIUC - 7g: cases/23fall/cases/MatSE-MS@UIUC-7g.md
-      - Sociology - MA @ UAlberta - RZ: cases/23fall/cases/Sociology-MA@UAlberta-RZ.md
-      - Stats - PhD @ NWU - v1ncent19: cases/23fall/cases/Stat-PhD@Northwestern-v1ncent19.md
-      - Stats - PhD @ UMN - Mariana: cases/23fall/cases/Stat-PhD@UMN-Mariana.md
-    - 22 Fall:
-      - cases/22fall/index.md
-      - Sociology/East Asian Studies - MA EAS @ Stanford - FriedChicken: cases/22fall/cases/EastAsianStudies_Sociology-MA@Stanford-FriedChicken.md
-      - MatSE - PhD @ UPenn - Zachary: cases/22fall/cases/MatSE-PhD@UPenn-Zachary.md
   - 联系与支持:
     - 联系与支持: contact/support.md
     - 功德墙: contact/contributor.md
@@ -95,12 +65,12 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-4
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to light mode
   features:
     - navigation.instant
@@ -173,5 +143,3 @@ plugins:
       order: 2
   - git-authors:
       show_contribution: true
-  - tags:
-      tags_file: cases/tags.md
