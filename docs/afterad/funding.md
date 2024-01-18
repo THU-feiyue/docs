@@ -11,7 +11,7 @@
 
 4. CSC 国家公派留学：由国家留学基金委员会(China Scholarship Council)提供海外生活费。
     - [国家留学网](https://www.csc.edu.cn/)
-    - [2022年国家留学基金资助出国留学人员选派简章](https://www.csc.edu.cn/article/2306)
+    - [2023年国家留学基金资助出国留学人员选派简章](https://www.csc.edu.cn/article/2613)
 
 5. Work：部分国家（如德国）的学签支持一定时间的课外工作，可以自行在校外打工或实习。
 
