@@ -36,3 +36,5 @@
 - [穷学生时尚观](https://mp.weixin.qq.com/s/hIXWsnyI3nYs6LqEB-JL5w)
 - [隔离与远程工作](https://mp.weixin.qq.com/s/AVnY-rKCc8y5DXHC0Cr6Aw)
 - [活用美国医保](https://mp.weixin.qq.com/s/rHDvVxLyc8kmDodO4xG9pQ)
+- [时间管理](https://mp.weixin.qq.com/s/nf7MFmGIfV7qFA3qEUxaYg)
+- [教职or业界](https://mp.weixin.qq.com/s/4iqcMD9eiyqUyQPwMtlABA)
