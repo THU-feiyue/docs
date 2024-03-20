@@ -4,4 +4,5 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-add-number-plugin
 mkdocs-git-authors-plugin
 mkdocs-minify-plugin
+mkdocs-redirects
 jieba

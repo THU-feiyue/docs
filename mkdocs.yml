@@ -54,6 +54,7 @@ nav:
     - 签证: afterad/visa.md
     - 前往: afterad/travel.md
     - 租房: afterad/rent.md
+  - 案例: cases.md
   - 文章阅读: reading/index.md
   - 联系与支持:
     - 联系与支持: contact/support.md
@@ -144,3 +145,6 @@ plugins:
       order: 2
   - git-authors:
       show_contribution: true
+  - redirects:
+      redirect_maps:
+        cases.md: https://database.feiyue.online
