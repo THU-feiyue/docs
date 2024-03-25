@@ -11,7 +11,7 @@
 - [浙大数院飞跃手册](http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf)
 - [浙大外语飞跃手册](http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf)
 - [浙大电气飞跃手册](http://ee.zju.edu.cn/_upload/article/files/e5/cb/875540014b9489d2cec796955ea7/d1051aae-5958-4137-9ebd-f5b59fea0230.pdf)
-- [电力电子飞跃手册](https://zliao555.github.io/flying_brochure/)
+- [电力电子飞跃手册](https://flyingbrochure.org/)
 - [东南大学飞跃手册](https://www.yuque.com/2020seufly/guide), [2015版](https://jerrypiglet.gitbooks.io/2015_seu_abroad/content/)
 - [南京工业大学飞跃手册](https://github.com/yaoshun123/FLY_NJTech)
 - [欧洲留学飞跃手册](https://chaoli.club/index.php/6978/0)
