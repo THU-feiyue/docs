@@ -32,7 +32,3 @@
 4.  提交并推送你的更改到自己的库，然后在 Github 中创建 Pull Request。
 
 排版的技术内容可以参考 [Material for Mkdocs 的文档](https://squidfunk.github.io/mkdocs-material/)，排版建议可见相似网站的创作者指引，如 [OI Wiki](https://oi-wiki.org/intro/format/) 和 [贵系的文档](https://docs.net9.org/notes/editor/) 。
-
-### 邮件
-
-如果您不习惯于使用 Github 或者是不喜欢 `.md` 语言格式，可以直接以你习惯的文档形式（any, e.g. `.txt` / word `.docx` / `.pdf`）发送到邮箱：<mailto:contact@feiyue.online>，手册的维护人员会联系您并为网页排版、组织和发布提供帮助。
