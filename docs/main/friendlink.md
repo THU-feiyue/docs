@@ -23,3 +23,4 @@
 - [西交利物浦手册-申请总结版块](https://awesome-xjtlu.github.io/wiki/#/grad-application/readme)
 - [武大数统飞跃手册](https://www.yuque.com/2020whumathstat/fly-sheet)
 - [大连理工飞跃手册](https://github.com/alexedinburgh/dutOverseas)
+- [CityU GuideBook](https://penjc.github.io/CityU/)
